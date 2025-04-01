@@ -1,0 +1,527 @@
+Initiator,Opponent,Outcome
+Anjanath,Great Jagras,Win
+Anjanath,Tobi-Kadachi,Win
+Anjanath,Viper Tobi-Kadachi,Win
+Anjanath,Rathalos,Lose
+Anjanath,Azure Rathalos,Lose
+Fulgur Anjanath,Great Jagras,Win
+Fulgur Anjanath,Tobi-Kadachi,Win
+Fulgur Anjanath,Viper Tobi-Kadachi,Win
+Fulgur Anjanath,Barioth,Tie
+Fulgur Anjanath,Frostfang Barioth,Tie
+Fulgur Anjanath,Diablos,Tie
+Fulgur Anjanath,Black Diablos,Tie
+Fulgur Anjanath,Nargacuga,Tie
+Fulgur Anjanath,Tigrex,Tie
+Fulgur Anjanath,Brute Tigrex,Tie
+Fulgur Anjanath,Zinogre,Tie
+Fulgur Anjanath,Stygian Zinogre,Tie
+Banbaro,Barioth,Lose
+Banbaro,Frostfang Barioth,Lose
+Banbaro,Beotodus,Tie
+Barioth,Banbaro,Win
+Barioth,Fulgur Anjanath,Tie
+Barioth,Legiana,Tie
+Barioth,Shrieking Legiana,Tie
+Barioth,Odogaron,Tie
+Barioth,Ebony Odogaron,Tie
+Frostfang Barioth,Banbaro,Win
+Frostfang Barioth,Fulgur Anjanath,Tie
+Frostfang Barioth,Shrieking Legiana,Tie
+Frostfang Barioth,Ebony Odogaron,Tie
+Barroth,Diablos,Lose
+Barroth,Black Diablos,Lose
+Barroth,Jyuratodus,Tie
+Bazelgeuse,Deviljho,Tie
+Seething Bazelgeuse,Savage Deviljho,Tie
+Beotodus,Banbaro,Tie
+Brachydios,Odogaron,Tie
+Brachydios,Ebony Odogaron,Tie
+Brachydios,Rathalos,Tie
+Brachydios,Azure Rathalos,Tie
+Brachydios,Tigrex,Tie
+Brachydios,Brute Tigrex,Tie
+Brachydios,Zinogre,Tie
+Brachydios,Stygian Zinogre,Tie
+Deviljho,Diablos,Win
+Deviljho,Legiana,Win
+Deviljho,Rathalos,Win
+Deviljho,Bazelgeuse,Tie
+Savage Deviljho,Diablos,Win
+Savage Deviljho,Black Diablos,Win
+Savage Deviljho,Legiana,Win
+Savage Deviljho,Shrieking Legiana,Win
+Savage Deviljho,Rathalos,Win
+Savage Deviljho,Azure Rathalos,Win
+Savage Deviljho,Seething Bazelgeuse,Tie
+Savage Deviljho,Namielle,Tie
+Savage Deviljho,Ruiner Nergigante,Tie
+Savage Deviljho,Rajang,Tie
+Savage Deviljho,Blackveil Vaal Hazak,Tie
+Savage Deviljho,Velkhana,Tie
+Diablos,Barroth,Win
+Diablos,Rathian,Win
+Diablos,Pink Rathian,Win
+Diablos,Deviljho,Lose
+Diablos,Savage Deviljho,Lose
+Diablos,Fulgur Anjanath,Tie
+Diablos,Glavenus,Tie
+Diablos,Acidic Glavenus,Tie
+Diablos,Black Diablos,Random
+Black Diablos,Barroth,Win
+Black Diablos,Rathian,Win
+Black Diablos,Pink Rathian,Win
+Black Diablos,Savage Deviljho,Lose
+Black Diablos,Fulgur Anjanath,Tie
+Black Diablos,Glavenus,Tie
+Black Diablos,Acidic Glavenus,Tie
+Black Diablos,Diablos,Random
+Glavenus,Diablos,Tie
+Glavenus,Black Diablos,Tie
+Glavenus,Odogaron,Tie
+Glavenus,Ebony Odogaron,Tie
+Glavenus,Tigrex,Tie
+Glavenus,Brute Tigrex,Tie
+Glavenus,Zinogre,Tie
+Glavenus,Stygian Zinogre,Tie
+Glavenus,Rathalos,Random
+Glavenus,Azure Rathalos,Random
+Acidic Glavenus,Diablos,Tie
+Acidic Glavenus,Black Diablos,Tie
+Acidic Glavenus,Odogaron,Tie
+Acidic Glavenus,Ebony Odogaron,Tie
+Acidic Glavenus,Tigrex,Tie
+Acidic Glavenus,Brute Tigrex,Tie
+Acidic Glavenus,Zinogre,Tie
+Acidic Glavenus,Stygian Zinogre,Tie
+Acidic Glavenus,Rathalos,Random
+Acidic Glavenus,Azure Rathalos,Random
+Great Jagras,Anjanath,Lose
+Great Jagras,Fulgur Anjanath,Lose
+Jyuratodus,Barroth,Tie
+Kirin,Rajang,Lose
+Kirin,Furious Rajang,Lose
+Kushala Daora,Lunastra,Tie
+Kushala Daora,Nergigante,Tie
+Kushala Daora,Ruiner Nergigante,Tie
+Kushala Daora,Rajang,Tie
+Kushala Daora,Teostra,Tie
+Kushala Daora,Velkhana,Tie
+Legiana,Paolumu,Win
+Legiana,Nightshade Paolumu,Win
+Legiana,Deviljho,Lose
+Legiana,Savage Deviljho,Lose
+Legiana,Rajang,Lose
+Legiana,Barioth,Tie
+Legiana,Odogaron,Tie
+Legiana,Ebony Odogaron,Tie
+Shrieking Legiana,Savage Deviljho,Lose
+Shrieking Legiana,Rajang,Lose
+Shrieking Legiana,Furious Rajang,Lose
+Shrieking Legiana,Barioth,Tie
+Shrieking Legiana,Frostfang Barioth,Tie
+Shrieking Legiana,Odogaron,Tie
+Shrieking Legiana,Ebony Odogaron,Tie
+Lunastra,Kushala Daora,Tie
+Lunastra,Nergigante,Tie
+Lunastra,Ruiner Nergigante,Tie
+Lunastra,Rajang,Tie
+Lunastra,Velkhana,Tie
+Namielle,Savage Deviljho,Tie
+Namielle,Rajang,Tie
+Nargacuga,Fulgur Anjanath,Tie
+Nargacuga,Odogaron,Tie
+Nargacuga,Ebony Odogaron,Tie
+Nargacuga,Rathalos,Tie
+Nargacuga,Azure Rathalos,Tie
+Nergigante,Kushala Daora,Tie
+Nergigante,Lunastra,Tie
+Nergigante,Teostra,Tie
+Ruiner Nergigante,Savage Deviljho,Tie
+Ruiner Nergigante,Kushala Daora,Tie
+Ruiner Nergigante,Lunastra,Tie
+Ruiner Nergigante,Rajang,Tie
+Ruiner Nergigante,Furious Rajang,Tie
+Ruiner Nergigante,Teostra,Tie
+Ruiner Nergigante,Velkhana,Tie
+Odogaron,Paolumu,Win
+Odogaron,Nightshade Paolumu,Win
+Odogaron,Tzitzi-Ya-Ku,Win
+Odogaron,Radobaan,Win
+Odogaron,Uragaan,Win
+Odogaron,Vaal Hazak,Lose
+Odogaron,Blackveil Vaal Hazak,Lose
+Odogaron,Barioth,Tie
+Odogaron,Brachydios,Tie
+Odogaron,Glavenus,Tie
+Odogaron,Acidic Glavenus,Tie
+Odogaron,Legiana,Tie
+Odogaron,Shrieking Legiana,Tie
+Odogaron,Nargacuga,Tie
+Odogaron,Rathalos,Tie
+Odogaron,Azure Rathalos,Tie
+Odogaron,Tigrex,Tie
+Odogaron,Brute Tigrex,Tie
+Ebony Odogaron,Paolumu,Win
+Ebony Odogaron,Nightshade Paolumu,Win
+Ebony Odogaron,Tzitzi-Ya-Ku,Win
+Ebony Odogaron,Radobaan,Win
+Ebony Odogaron,Uragaan,Win
+Ebony Odogaron,Blackveil Vaal Hazak,Lose
+Ebony Odogaron,Barioth,Tie
+Ebony Odogaron,Frostfang Barioth,Tie
+Ebony Odogaron,Brachydios,Tie
+Ebony Odogaron,Glavenus,Tie
+Ebony Odogaron,Acidic Glavenus,Tie
+Ebony Odogaron,Legiana,Tie
+Ebony Odogaron,Shrieking Legiana,Tie
+Ebony Odogaron,Nargacuga,Tie
+Ebony Odogaron,Rathalos,Tie
+Ebony Odogaron,Azure Rathalos,Tie
+Ebony Odogaron,Tigrex,Tie
+Ebony Odogaron,Brute Tigrex,Tie
+Paolumu,Legiana,Lose
+Paolumu,Odogaron,Lose
+Paolumu,Ebony Odogaron,Lose
+Paolumu,Rajang,Lose
+Nightshade Paolumu,Legiana,Lose
+Nightshade ,Odogaron,Lose
+Nightshade Paolumu,Ebony Odogaron,Lose
+Nightshade Paolumu,Rajang,Lose
+Pukei-Pukei,Rajang,Lose
+Coral Pukei-Pukei,Rajang,Lose
+Radobaan,Odogaron,Lose
+Radobaan,Ebony Odogaron,Lose
+Rajang,Kirin,Win
+Rajang,Legiana,Win
+Rajang,Shrieking Legiana,Win
+Rajang,Paolumu,Win
+Rajang,Nightshade Paolumu,Win
+Rajang,Pukei-Pukei,Win
+Rajang,Coral Pukei-Pukei,Win
+Rajang,Rathalos,Win
+Rajang,Azure Rathalos,Win
+Rajang,Rathian,Win
+Rajang,Pink Rathian,Win
+Rajang,Yian Garuga,Win
+Rajang,Scarred Yian Garuga,Win
+Rajang,Savage Deviljho,Tie
+Rajang,Kushala Daora,Tie
+Rajang,Lunastra,Tie
+Rajang,Namielle,Tie
+Rajang,Ruiner Nergigante,Tie
+Rajang,Teostra,Tie
+Rajang,Blackveil Vaal Hazak,Tie
+Rajang,Velkhana,Tie
+Furious Rajang,Kirin,Win
+Furious Rajang,Shrieking Legiana,Win
+Furious Rajang,Ruiner Nergigante,Tie
+Furious Rajang,Blackveil Vaal Hazak,Tie
+Rathalos,Anjanath,Win
+Rathalos,Deviljho,Lose
+Rathalos,Savage Deviljho,Lose
+Rathalos,Rajang,Lose
+Rathalos,Brachydios,Tie
+Rathalos,Nargacuga,Tie
+Rathalos,Odogaron,Tie
+Rathalos,Ebony Odogaron,Tie
+Rathalos,Tigrex,Tie
+Rathalos,Brute Tigrex,Tie
+Rathalos,Zinogre,Tie
+Rathalos,Stygian Zinogre,Tie
+Rathalos,Glavenus,Random
+Rathalos,Acidic Glavenus,Random
+Azure Rathalos,Anjanath,Win
+Azure Rathalos,Savage Deviljho,Lose
+Azure Rathalos,Rajang,Lose
+Azure Rathalos,Brachydios,Tie
+Azure Rathalos,Nargacuga,Tie
+Azure Rathalos,Odogaron,Tie
+Azure Rathalos,Ebony Odogaron,Tie
+Azure Rathalos,Tigrex,Tie
+Azure Rathalos,Brute Tigrex,Tie
+Azure Rathalos,Zinogre,Tie
+Azure Rathalos,Stygian Zinogre,Tie
+Azure Rathalos,Glavenus,Random
+Azure Rathalos,Acidic Glavenus,Random
+Rathian,Diablos,Lose
+Rathian,Black Diablos,Lose
+Rathian,Rajang,Lose
+Pink Rathian,Diablos,Lose
+Pink Rathian,Black Diablos,Lose
+Pink Rathian,Rajang,Lose
+Teostra,Kushala Daora,Tie
+Teostra,Nergigante,Tie
+Teostra,Ruiner Nergigante,Tie
+Teostra,Rajang,Tie
+Teostra,Velkhana,Tie
+Tigrex,Fulgur Anjanath,Tie
+Tigrex,Brachydios,Tie
+Tigrex,Glavenus,Tie
+Tigrex,Acidic Glavenus,Tie
+Tigrex,Odogaron,Tie
+Tigrex,Ebony Odogaron,Tie
+Tigrex,Rathalos,Tie
+Tigrex,Azure Rathalos,Tie
+Brute Tigrex,Fulgur Anjanath,Tie
+Brute Tigrex,Brachydios,Tie
+Brute Tigrex,Glavenus,Tie
+Brute Tigrex,Acidic Glavenus,Tie
+Brute Tigrex,Odogaron,Tie
+Brute Tigrex,Ebony Odogaron,Tie
+Brute Tigrex,Rathalos,Tie
+Brute Tigrex,Azure Rathalos,Tie
+Tobi-Kadachi,Anjanath,Lose
+Tobi-Kadachi,Fulgur Anjanath,Lose
+Viper Tobi-Kadachi,Anjanath,Lose
+Viper Tobi-Kadachi,Fulgur Anjanath,Lose
+Tzitzi-Ya-Ku,Odogaron,Lose
+Tzitzi-Ya-Ku,Ebony Odogaron,Lose
+Uragaan,Odogaron,Lose
+Uragaan,Ebony Odogaron,Lose
+Vaal Hazak,Odogaron,Win
+Blackveil Vaal Hazak,Odogaron,Win
+Blackveil Vaal Hazak,Ebony Odogaron,Win
+Blackveil Vaal Hazak,Savage Deviljho,Tie
+Blackveil Vaal Hazak,Rajang,Tie
+Blackveil Vaal Hazak,Furious Rajang,Tie
+Velkhana,Savage Deviljho,Tie
+Velkhana,Kushala Daora,Tie
+Velkhana,Lunastra,Tie
+Velkhana,Ruiner Nergigante,Tie
+Velkhana,Rajang,Tie
+Velkhana,Teostra,Tie
+Yian Garuga,Rajang,Win
+Yian Garuga,Zinogre,Tie
+Yian Garuga,Stygian Zinogre,Tie
+Scarred Yian Garuga,Rajang,Win
+Scarred Yian Garuga,Zinogre,Tie
+Scarred Yian Garuga,Stygian Zinogre,Tie
+Zinogre,Fulgur Anjanath,Tie
+Zinogre,Brachydios,Tie
+Zinogre,Glavenus,Tie
+Zinogre,Acidic Glavenus,Tie
+Zinogre,Rathalos,Tie
+Zinogre,Azure Rathalos,Tie
+Zinogre,Yian Garuga,Tie
+Zinogre,Scarred Yian Garuga,Tie
+Stygian Zinogre,Fulgur Anjanath,Tie
+Stygian Zinogre,Brachydios,Tie
+Stygian Zinogre,Glavenus,Tie
+Stygian Zinogre,Acidic Glavenus,Tie
+Stygian Zinogre,Rathalos,Tie
+Stygian Zinogre,Azure Rathalos,Tie
+Stygian Zinogre,Yian Garuga,Tie
+Stygian Zinogre,Scarred Yian Garuga,Tie
+Aknosom,Magnamalo,Lose
+Aknosom,Scorned Magnamalo,Lose
+Aknosom,Somnacanth,Lose
+Aknosom,Aurora Somnacanth,Lose
+Almudron,Bishaten,Win
+Almudron,Blood Orange Bishaten,Win
+Anjanath,Kulu-Ya-Ku,Win
+Anjanath,Great Wroggi,Win
+Anjanath,Tetranadon,Win
+Anjanath,Tobi-Kadachi,Win
+Anjanath,Rathalos,Lose
+Anjanath,Rathian,Lose
+Anjanath,Diablos,Lose
+Anjanath,Nargacuga,Lose
+Anjanath,Tigrex,Lose
+Anjanath,Zinogre,Lose
+Arzuros,Tetranadon,Lose
+Astalos,Mizutsune,Random
+Barioth,Magnamalo,Lose
+Barioth,Scorned Magnamalo,Lose
+Barroth,Diablos,Lose
+Bazelgeuse,Magnamalo,Lose
+Bazelgeuse,Scorned Magnamalo,Lose
+Bazelgeuse,Rajang,Random
+Bazelgeuse,Furious Rajang,Tie
+Seething Bazelgeuse,Scorned Magnamalo,Lose
+Seething Bazelgeuse,Furious Rajang,Random
+Bishaten,Almudron,Lose
+Bishaten,Rathalos,Lose
+Blood Orange Bishaten,Almudron,Lose
+Blood Orange Bishaten,Rathalos,Lose
+Diablos,Barroth,Win
+Diablos,Rathian,Win
+Diablos,Anjanath,Win
+Diablos,Diablos,Random
+Espinas,Kushala Daora,Random
+Garangolm,Lunagaron,Lose
+Gore Magala,Seregios,Random
+Goss Harag,Tetranadon,Win
+Great Wroggi,Anjanath,Lose
+Great Wroggi,Ratholos,Lose
+Kulu-Ya-Ku,Anjanath,Lose
+Kulu-Ya-Ku,Ratholos,Lose
+Kushala Daora,Magnamalo,Tie
+Kushala Daora,Scorned Magnamalo,Tie
+Kushala Daora,Teostra,Random
+Kushala Daora,Risen Teostra,Random
+Kushala Daora,Rajang,Random
+Kushala Daora,Furious Rajang,Random
+Kushala Daora,Espinas,Random
+Kushala Daora,Flaming Espinas,Random
+Kushala Daora,Velkhana,Random
+Risen Kushala Daora,Teostra,Random
+Risen Kushala Daora,Rajang,Random
+Risen Kushala Daora,Furious Rajang,Random
+Risen Kushala Daora,Espinas,Random
+Risen Kushala Daora,Flaming Espinas,Random
+Risen Kushala Daora,Velkhana, Random
+Lagombi,Tetranadon,Lose
+Lunagaron,Zinogre,Random
+Lunagaron,Garangolm,Win
+Lunagaron,Malzeno,Lose
+Magnamalo,Aknosom,Win
+Magnamalo,Barioth,Win
+Magnamalo,Bazelgeuse,Win
+Magnamalo,Rathalos,Win
+Magnamalo,Kushala Daora,Tie
+Magnamalo,Risen Kushala Daora,Tie
+Magnamalo,Teostra,Tie
+Magnamalo,Risen Teostra,Tie
+Magnamalo,Velkhana,Tie
+Scorned Magnamalo,Aknosom,Win
+Scorned Magnamalo,Barioth,Win
+Scorned Magnamalo,Bazelgeuse,Win
+Scorned Magnamalo,Seething Bazelgeuse,Win
+Scorned Magnamalo,Rathalos,Win
+Scorned Magnamalo,Kushala Daora,Tie
+Scorned Magnamalo,Risen Kushala Daora,Tie
+Scorned Magnamalo,Malzeno,Tie
+Scorned Magnamalo,Primordial Malzeno,Tie
+Scorned Magnamalo,Teostra,Tie
+Scorned Magnamalo,Risen Teostra,Tie
+Scorned Magnamalo,Velkhana,Tie
+Malzeno,Lunagaron,Win
+Malzeno,Scorned Magnamalo,Tie
+Malzeno,Velkhana,Tie
+Primordial Malzeno,Lunagaron,Win
+Primordial Malzeno,Scorned Magnamalo,Tie
+Primordial Malzeno,Velkhana,Win
+Mizutsune,Zinogre,Lose
+Mizutsune,Astalos,Random
+Nargacuga,Anjanath,Win
+Nargacuga,Rathalos,Win
+Nargacuga,Rathian,Win
+Pukei-Pukei,Rajang,Lose
+Pukei-Pukei,Furious Rajang,Lose
+Rajang,Pukei-Pukei,Win
+Rajang,Rathalos,Win
+Rajang,Rathian,Win
+Rajang,Bazelgeuse,Random
+Rajang,Kushala Daora,Random
+Rajang,Risen Kushala Daora,Random
+Rajang,Teostra,Tie
+Rajang,Risen Teostra,Tie
+Rajang,Velkhana,Tie
+Furious Rajang,Pukei-Pukei,Win
+Furious Rajang,Rathalos,Win
+Furious Rajang,Rathian,Win
+Furious Rajang,Bazelgeuse,Random
+Furious Rajang,Seething Bazelgeuse,Random
+Furious Rajang,Kushala Daora,Random
+Furious Rajang,Risen Kushala Daora,Random
+Furious Rajang,Teostra,Tie
+Furious Rajang,Risen Teostra,Tie
+Furious Rajang,Velkhana,Tie
+Rathalos,Anjanath,Win
+Rathalos,Bishaten,Win
+Rathalos,Blood Orange Bishaten,Win
+Rathalos,Great Wroggi,Win
+Rathalos,Kulu-Ya-Ku,Win
+Rathalos,Tobi-Kadachi,Win
+Rathalos,Rajang,Lose
+Rathalos,Furious Rajang,Lose
+Rathalos,Magnamalo,Lose
+Rathalos,Scorned Magnamalo,Lose
+Rathalos,Nargacuga,Lose
+Rathalos,Tigrex,Lose
+Rathalos,Zinogre,Lose
+Rathian,Anjanath,Win
+Rathian,Diablos,Win
+Rathian,Rajang,Lose
+Rathian,Furious Rajang,Lose
+Rathian,Nargacuga,Lose
+Rathian,Tigrex,Lose
+Rathian,Zinogre,Lose
+Seregios,Gore Magala,Random
+Somnacanth,Aknosom,Win
+Aurora Somnacanth,Aknosom,Win
+Teostra,Kushala Daora,Random
+Teostra,Risen Kushala Daora,Random
+Teostra,Magnamalo,Tie
+Teostra,Scorned Magnamalo,Lose
+Teostra,Rajang,Tie
+Teostra,Furious Rajang,Tie
+Teostra,Velkhana,Random
+Risen Teostra,Kushala Daora,Random
+Risen Teostra,Magnamalo,Tie
+Risen Teostra,Scorned Magnamalo,Lose
+Risen Teostra,Rajang,Tie
+Risen Teostra,Furious Rajang,Tie
+Risen Teostra,Velkhana,Random
+Tetranadon,Arzuros,Win
+Tetranadon,Lagombi,Win
+Tetranadon,Volvidon,Win
+Tetranadon,Anjanath,Lose
+Tetranadon,Goss Harag,Lose
+Tigrex,Anjanath,Win
+Tigrex,Rathalos,Win
+Tigrex,Rathian,Win
+Tobi-Kadachi,Anjanath,Lose
+Tobi-Kadachi,Rathalos,Lose
+Velkhana,Kushala Daora,Random
+Velkhana,Risen Kushala Daora,Random
+Velkhana,Teostra,Random
+Velkhana,Risen Teostra,Random
+Velkhana,Rajang,Tie
+Velkhana,Furious Rajang,Tie
+Velkhana,Magnamalo,Tie
+Velkhana,Scorned Magnamalo,Tie
+Velkhana,Malzeno,Tie
+Velkhana,Primordial Malzeno,Lose
+Volvidon,Tetranadon,Lose
+Zinogre,Lunagaron,Random
+Zinogre,Anjanath,Win
+Zinogre,Mizutsune,Win
+Zinogre,Rathalos,Win
+Zinogre,Rathian,Win
+Doshaguma,Balahara,Win
+Rathian,Quematrice,Win
+Ratholos,Quematrice,Win
+Guardian Ratholos,Quematrice,Win
+Gypceros,Nerscylla,Lose
+Blangonga,Hirabami,Tie
+Rompopolo,Ajarakan,Lose
+Doshaguma,Lala Barina,Tie
+Rompopolo,Rathian,Lose
+Rompopolo,Rathalos,Lose
+Guardian Doshaguma,Guardian Fulgur Anjanath,Tie
+Guardian Fulgur Anjanath,Guardian Rathalos,Lose
+Nu Udra,Ajarakan,Win
+Uth Duna,Rathalos,Tie
+Xu Wu,Guardian Doshaguma,Win
+Xu Wu,Guardian Ebony Odogaron,Win
+Xu Wu,Guardian Fulgur Anjanath,Win
+Xu Wu,Guardian Rathalos,Win
+Arkveld,Quematrice,Win
+Arkveld,Doshaguma,Win
+Arkveld,Balahara,Win
+Arkveld,Yian Kut ku,Win
+Arkveld,Hirabami,Win
+Arkveld,Blangonga,Win
+Arkveld,Rathian,Win
+Arkveld,Ratholos,Win
+Arkveld,Uth Duna,Win
+Arkveld,Guardian Doshaguma,Win
+Arkveld,Guardian Rathalos,Win
+Arkveld,Guardian Ebony Odogaron,Win
+Arkveld,Guardian Fulgur Anjanath,Win
+Arkveld,Ajarakan,Win
+Arkveld,Nu Udra,Win
+Arkveld,Gore Magala,Win
+Arkveld,Rey Dau,Tie
