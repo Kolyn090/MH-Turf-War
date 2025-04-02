@@ -185,7 +185,7 @@ Paolumu,Odogaron,Lose
 Paolumu,Ebony Odogaron,Lose
 Paolumu,Rajang,Lose
 Nightshade Paolumu,Legiana,Lose
-Nightshade ,Odogaron,Lose
+Nightshade Paolumu ,Odogaron,Lose
 Nightshade Paolumu,Ebony Odogaron,Lose
 Nightshade Paolumu,Rajang,Lose
 Pukei-Pukei,Rajang,Lose
@@ -353,9 +353,9 @@ Garangolm,Lunagaron,Lose
 Gore Magala,Seregios,Random
 Goss Harag,Tetranadon,Win
 Great Wroggi,Anjanath,Lose
-Great Wroggi,Ratholos,Lose
+Great Wroggi,Rathalos,Lose
 Kulu-Ya-Ku,Anjanath,Lose
-Kulu-Ya-Ku,Ratholos,Lose
+Kulu-Ya-Ku,Rathalos,Lose
 Kushala Daora,Magnamalo,Tie
 Kushala Daora,Scorned Magnamalo,Tie
 Kushala Daora,Teostra,Random
@@ -370,7 +370,7 @@ Risen Kushala Daora,Rajang,Random
 Risen Kushala Daora,Furious Rajang,Random
 Risen Kushala Daora,Espinas,Random
 Risen Kushala Daora,Flaming Espinas,Random
-Risen Kushala Daora,Velkhana, Random
+Risen Kushala Daora,Velkhana,Random
 Lagombi,Tetranadon,Lose
 Lunagaron,Zinogre,Random
 Lunagaron,Garangolm,Win
@@ -492,8 +492,8 @@ Zinogre,Rathalos,Win
 Zinogre,Rathian,Win
 Doshaguma,Balahara,Win
 Rathian,Quematrice,Win
-Ratholos,Quematrice,Win
-Guardian Ratholos,Quematrice,Win
+Rathalos,Quematrice,Win
+Guardian Rathalos,Quematrice,Win
 Gypceros,Nerscylla,Lose
 Blangonga,Hirabami,Tie
 Rompopolo,Ajarakan,Lose
@@ -515,7 +515,7 @@ Arkveld,Yian Kut ku,Win
 Arkveld,Hirabami,Win
 Arkveld,Blangonga,Win
 Arkveld,Rathian,Win
-Arkveld,Ratholos,Win
+Arkveld,Rathalos,Win
 Arkveld,Uth Duna,Win
 Arkveld,Guardian Doshaguma,Win
 Arkveld,Guardian Rathalos,Win
