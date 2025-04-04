@@ -5,4 +5,6 @@ Sources:
 
 2. monster
 - https://github.com/TanukiSharp/mh-monster-info/tree/master/src/assets/data
+- https://mhrise.mhrice.info/
+- https://github.com/CrimsonNynja/monster-hunter-DB
 
