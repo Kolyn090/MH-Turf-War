@@ -5,9 +5,14 @@ Sources:
 
 2. monster: contains information about monsters.
 
-| name | type | elements | ailments | weakness |
-|------|------|----------|----------|----------|
-| cat  | cat  | binary   | binary   | num      |
+| name | type | elements | weakness |
+|------|------|----------|----------|
+| cat  | cat  | binary   | num      |
+
+It's highly recommended to normalize weakness feature twice (once for row normalization
+of `[fire_weak, water_weak, thunder_weak, ice_weak, dragon_weak]`, and another
+for column normalization. This is because the values represent the sum of elemental weaknesses 
+of the monsters, and each monster varies in the number of parts it has.)
 
 - https://github.com/TanukiSharp/mh-monster-info/tree/master/src/assets/data
 - https://mhrise.mhrice.info/
