@@ -19,3 +19,6 @@ of the monsters, and each monster varies in the number of parts it has.)
 - https://github.com/CrimsonNynja/monster-hunter-DB
 - https://monsterhunterwiki.org/wiki
 - https://github.com/Kolyn090/mhfu-db
+
+3. subspecies.csv: record of monsters' subspecies
+- https://github.com/CrimsonNynja/monster-hunter-DB
