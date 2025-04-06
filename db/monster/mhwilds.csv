@@ -1,0 +1,30 @@
+name,type,dragon_element,fire_element,ice_element,thunder_element,water_element,fire_weak,water_weak,thunder_weak,ice_weak,dragon_weak
+Ajarakan,Fanged Beast,0,1,0,0,0,0,225,0,180,95
+Arkveld,Flying Wyvern,1,0,0,0,0,79,79,79,83,107
+Balahara,Leviathan,0,0,0,0,1,55,0,160,40,40
+Blangonga,Fanged Beast,0,0,1,0,0,210,35,105,0,0
+Chatacabra,Amphibian,0,0,0,0,0,50,30,205,110,0
+Congalala,Fanged Beast,0,1,0,0,0,175,65,65,105,35
+Doshaguma,Fanged Beast,0,0,0,0,0,145,40,80,45,30
+Gore Magala,Demi Elder,0,0,0,0,0,255,0,140,65,105
+Gravios,Flying Wyvern,0,1,0,0,0,0,315,45,85,305
+Guardian Arkveld,Construct,1,0,0,0,0,79,79,79,83,107
+Guardian Doshaguma,Construct,0,0,0,0,0,175,35,85,70,85
+Guardian Ebony Odogaron,Construct,1,0,0,0,0,160,265,160,160,150
+Guardian Fulgur Anjanath,Construct,0,0,0,1,0,70,180,0,230,115
+Guardian Rathalos,Construct,0,1,0,0,0,0,80,120,80,190
+Gypceros,Bird Wyvern,0,0,0,0,0,120,55,0,100,80
+Hirabami,Leviathan,0,0,1,0,0,160,50,80,0,50
+Jin Dahaad,Leviathan,0,0,1,0,0,140,50,50,0,50
+Lala Barina,Temnoceran,0,0,0,0,0,200,0,100,50,0
+Nerscylla,Temnoceran,0,0,0,0,0,235,0,75,55,0
+Nu Udra,Cephalopod,0,1,0,0,0,0,260,105,55,110
+Quematrice,Brute Wyvern,0,1,0,0,0,0,180,35,60,35
+Rathalos,Flying Wyvern,0,1,0,0,0,0,60,90,60,240
+Rathian,Flying Wyvern,0,1,0,0,0,0,45,90,45,150
+Rey Dau,Flying Wyvern,0,0,0,1,0,35,60,0,85,35
+Rompopolo,Brute Wyvern,0,0,0,0,0,45,150,45,45,35
+Uth Duna,Leviathan,0,0,0,0,1,85,0,380,35,35
+Xu Wu,Cephalopod,0,0,0,0,0,65,46,65,345,0
+Yian Kut-Ku,Bird Wyvern,0,1,0,0,0,50,100,140,150,20
+Zoh Shia,Construct,0,1,0,1,0,180,80,80,105,405
