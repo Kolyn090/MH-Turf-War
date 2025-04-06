@@ -18,3 +18,4 @@ of the monsters, and each monster varies in the number of parts it has.)
 - https://mhrise.mhrice.info/
 - https://github.com/CrimsonNynja/monster-hunter-DB
 - https://monsterhunterwiki.org/wiki
+- https://github.com/Kolyn090/mhfu-db
