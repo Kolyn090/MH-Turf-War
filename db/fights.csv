@@ -146,6 +146,7 @@ Ruiner Nergigante,Teostra,Tie
 Ruiner Nergigante,Velkhana,Tie
 Odogaron,Paolumu,Win
 Odogaron,Nightshade Paolumu,Win
+Nightshade Paolumu,Odogaron,Lose
 Odogaron,Tzitzi-Ya-Ku,Win
 Odogaron,Radobaan,Win
 Odogaron,Uragaan,Win
@@ -186,6 +187,7 @@ Paolumu,Ebony Odogaron,Lose
 Paolumu,Rajang,Lose
 Nightshade Paolumu,Legiana,Lose
 Nightshade Paolumu ,Odogaron,Lose
+Odogaron,Nightshade Paolumu ,Win
 Nightshade Paolumu,Ebony Odogaron,Lose
 Nightshade Paolumu,Rajang,Lose
 Pukei-Pukei,Rajang,Lose
@@ -204,7 +206,9 @@ Rajang,Azure Rathalos,Win
 Rajang,Rathian,Win
 Rajang,Pink Rathian,Win
 Rajang,Yian Garuga,Win
+Yian Garuga,Rajang,Lose
 Rajang,Scarred Yian Garuga,Win
+Scarred Yian Garuga,Rajang,Lose
 Rajang,Savage Deviljho,Tie
 Rajang,Kushala Daora,Tie
 Rajang,Lunastra,Tie
@@ -292,9 +296,11 @@ Velkhana,Ruiner Nergigante,Tie
 Velkhana,Rajang,Tie
 Velkhana,Teostra,Tie
 Yian Garuga,Rajang,Win
+Rajang,Yian Garuga,Lose
 Yian Garuga,Zinogre,Tie
 Yian Garuga,Stygian Zinogre,Tie
 Scarred Yian Garuga,Rajang,Win
+Rajang,Scarred Yian Garuga,Lose
 Scarred Yian Garuga,Zinogre,Tie
 Scarred Yian Garuga,Stygian Zinogre,Tie
 Zinogre,Fulgur Anjanath,Tie
@@ -400,6 +406,7 @@ Malzeno,Lunagaron,Win
 Malzeno,Scorned Magnamalo,Tie
 Malzeno,Velkhana,Tie
 Primordial Malzeno,Lunagaron,Win
+Lunagaron,Primordial Malzeno,Lose
 Primordial Malzeno,Scorned Magnamalo,Tie
 Primordial Malzeno,Velkhana,Win
 Mizutsune,Zinogre,Lose
@@ -443,6 +450,7 @@ Rathalos,Tigrex,Lose
 Rathalos,Zinogre,Lose
 Rathian,Anjanath,Win
 Rathian,Diablos,Win
+Diablos,Rathian,Lose
 Rathian,Rajang,Lose
 Rathian,Furious Rajang,Lose
 Rathian,Nargacuga,Lose
@@ -455,12 +463,14 @@ Teostra,Kushala Daora,Random
 Teostra,Risen Kushala Daora,Random
 Teostra,Magnamalo,Tie
 Teostra,Scorned Magnamalo,Lose
+Scorned Magnamalo,Teostra,Win
 Teostra,Rajang,Tie
 Teostra,Furious Rajang,Tie
 Teostra,Velkhana,Random
 Risen Teostra,Kushala Daora,Random
 Risen Teostra,Magnamalo,Tie
 Risen Teostra,Scorned Magnamalo,Lose
+Scorned Magnamalo,Risen Teostra,Win
 Risen Teostra,Rajang,Tie
 Risen Teostra,Furious Rajang,Tie
 Risen Teostra,Velkhana,Random
@@ -491,37 +501,67 @@ Zinogre,Mizutsune,Win
 Zinogre,Rathalos,Win
 Zinogre,Rathian,Win
 Doshaguma,Balahara,Win
+Balahara,Doshaguma,Lose
 Rathian,Quematrice,Win
+Quematrice,Rathian,Lose
 Rathalos,Quematrice,Win
+Quematrice,Rathalos,Lose
 Guardian Rathalos,Quematrice,Win
+Quematrice,Guardian Rathalos,Lose
 Gypceros,Nerscylla,Lose
+Nerscylla,Gypceros,Win
 Blangonga,Hirabami,Tie
 Rompopolo,Ajarakan,Lose
+Ajarakan,Rompopolo,Win
 Doshaguma,Lala Barina,Tie
 Rompopolo,Rathian,Lose
+Rathian,Rompopolo,Win
 Rompopolo,Rathalos,Lose
+Rathalos,Rompopolo,Win
 Guardian Doshaguma,Guardian Fulgur Anjanath,Tie
 Guardian Fulgur Anjanath,Guardian Rathalos,Lose
+Guardian Rathalos,Guardian Fulgur Anjanath,Win
 Nu Udra,Ajarakan,Win
+Ajarakan,Nu Udra,Lose
 Uth Duna,Rathalos,Tie
 Xu Wu,Guardian Doshaguma,Win
+Guardian Doshaguma,Xu Wu,Lose
 Xu Wu,Guardian Ebony Odogaron,Win
+Guardian Ebony Odogaron,Xu Wu,Lose
 Xu Wu,Guardian Fulgur Anjanath,Win
+Guardian Fulgur Anjanath,Xu Wu,Lose
 Xu Wu,Guardian Rathalos,Win
+Guardian Rathalos,Xu Wu,Lose
 Arkveld,Quematrice,Win
+Quematrice,Arkveld,Lose
 Arkveld,Doshaguma,Win
+Doshaguma,Arkveld,Lose
 Arkveld,Balahara,Win
+Balahara,Arkveld,Lose
 Arkveld,Yian Kut-ku,Win
+Yian Kut-ku,Arkveld,Lose
 Arkveld,Hirabami,Win
+Hirabami,Arkveld,Lose
 Arkveld,Blangonga,Win
+Blangonga,Arkveld,Lose
 Arkveld,Rathian,Win
+Rathian,Arkveld,Lose
 Arkveld,Rathalos,Win
+Rathalos,Arkveld,Lose
 Arkveld,Uth Duna,Win
+Uth Duna,Arkveld,Lose
 Arkveld,Guardian Doshaguma,Win
+Guardian Doshaguma,Arkveld,Lose
 Arkveld,Guardian Rathalos,Win
+Guardian Rathalos,Arkveld,Lose
 Arkveld,Guardian Ebony Odogaron,Win
+Guardian Ebony Odogaron,Arkveld,Lose
 Arkveld,Guardian Fulgur Anjanath,Win
+Guardian Fulgur Anjanath,Arkveld,Lose
 Arkveld,Ajarakan,Win
+Ajarakan,Arkveld,Lose
 Arkveld,Nu Udra,Win
+Nu Udra,Arkveld,Lose
 Arkveld,Gore Magala,Win
+Gore Magala,Arkveld,Lose
 Arkveld,Rey Dau,Tie
