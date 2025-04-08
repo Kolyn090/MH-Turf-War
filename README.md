@@ -22,3 +22,6 @@ of the monsters, and each monster varies in the number of parts it has.)
 
 3. subspecies.csv: record of monsters' subspecies
 - https://github.com/CrimsonNynja/monster-hunter-DB
+
+4. size: contains information about size of monsters.
+- https://github.com/Kolyn090/mhfu-db
