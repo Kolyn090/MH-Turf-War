@@ -24,4 +24,8 @@ of the monsters, and each monster varies in the number of parts it has.)
 - https://github.com/CrimsonNynja/monster-hunter-DB
 
 4. size: contains information about size of monsters.
+
+Some information might be approximated due to the lack of data.
+
 - https://github.com/Kolyn090/mhfu-db
+- https://monsterhunter.fandom.com/wiki
