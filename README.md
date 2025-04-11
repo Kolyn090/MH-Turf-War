@@ -25,7 +25,9 @@ of the monsters, and each monster varies in the number of parts it has.)
 
 4. size: contains information about size of monsters.
 
-Some information might be approximated due to the lack of data.
+Missing information are approximated via a missing-data imputation method. For some monsters that
+have a fixed in the game, the algorithm also approximated other expected sizes for them. For details,
+check out size_combined_pred.csv file.
 
 - https://github.com/Kolyn090/mhfu-db
 - https://monsterhunter.fandom.com/wiki
