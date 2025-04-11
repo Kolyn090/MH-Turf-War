@@ -29,3 +29,5 @@ Some information might be approximated due to the lack of data.
 
 - https://github.com/Kolyn090/mhfu-db
 - https://monsterhunter.fandom.com/wiki
+- https://monsterhunterrise.wiki.fextralife.com/
+- https://mhworld.kiranico.com/

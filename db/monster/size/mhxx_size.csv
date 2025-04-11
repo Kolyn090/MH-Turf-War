@@ -1,4 +1,4 @@
-monster,golden_largest_min,golden_largest_max,silver_min,silver_max,golden_smallest_min,golden_smallest_max,default
+monster,golden-largest-min,golden-largest-max,silver-min,silver-max,golden-smallest-min,golden-smallest-max,default
 Agnaktor,3421.64,,,,,2416.1,
 Akantor,,,,,,,3049
 Arzuros,,854.55,,,501.34,,
@@ -23,7 +23,7 @@ Diablos,3030.0,,,,,1796.26,
 Bloodbath Diablos,2770.75,,,,,2288.88,
 Duramboros,,2611.5,,,1317.84,,
 Gammoth,,2617.48,,,455.21,,
-Elderfrost Gammoth,,,,,,,
+Elderfrost Gammoth,,2594.72,,,2276.07,,
 Gendrome,1037.4,,,,,615,
 Giadrome,1048.77,,,,,649.8,
 Glavenus,3174.36,,,,,2234.75,
@@ -41,7 +41,7 @@ Lagombi,,1581.9,,,214.16,,
 Snowbaron Lagombi,799.36,,,,,607.52,
 Lavasioth,3476.6,,,,,1581.57,
 Malfestio,758.46,,,,,305.83,
-Nightcloak Malfestio,,,,,,,
+Nightcloak Malfestio,901.61,,,,711.03,,733.02
 Mizutsune,2356.4,,,,,565.54,
 Soulseer Mizutsune,2792.77,,,,,,
 Soulseer Mizutsune,5068.75,,,,,3568.4,
@@ -63,7 +63,7 @@ Seltas,769.88,,,,,541.99,
 Seltas Queen,1791.55,,,,,1271.42,
 Seregios,2246.53,,,,,1520.73,
 Shogun Ceanataur,1294.5,,,,,586.03,
-Rustrazor Ceanataur,,,,,,,
+Rustrazor Ceanataur,784.82,,,,,660.9,688.44
 Tetsucabra,1582.25,,,,,632.9,
 Drilltusk Tetsucabra,1649.07,,,,,1437.26,
 Tigrex,2914.8,,,,,1388.2,
