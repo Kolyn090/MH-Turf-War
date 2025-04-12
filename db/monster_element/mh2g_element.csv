@@ -1,61 +1,61 @@
-monster,dragon_element,fire_element,ice_element,thunder_element,water_element
-Akantor,True,True,False,False,False
-Ashen Lao-Shan Lung,True,False,False,False,False
-Azure Rathalos,False,True,False,False,False
-Basarios,False,True,False,False,False
+monster,fire_element,water_element,thunder_element,ice_element,dragon_element
+Akantor,True,False,False,False,True
+Ashen Lao-Shan Lung,False,False,False,False,True
+Azure Rathalos,True,False,False,False,False
+Basarios,True,False,False,False,False
 Black Diablos,False,False,False,False,False
-Black Gravios,False,True,False,False,False
-Blangonga,False,False,True,False,False
-Blue Yian Kut-Ku,False,True,False,False,False
+Black Gravios,True,False,False,False,False
+Blangonga,False,False,False,True,False
+Blue Yian Kut-Ku,True,False,False,False,False
 Bulldrome,False,False,False,False,False
 Cephadrome,False,False,False,False,False
-Chameleos,True,False,False,False,False
+Chameleos,False,False,False,False,True
 Congalala,False,False,False,False,False
 Copper Blangonga,False,False,False,False,False
-Crimson Fatalis,True,True,False,False,False
-Daimyo Hermitaur,False,False,False,False,True
+Crimson Fatalis,True,False,False,False,True
+Daimyo Hermitaur,False,True,False,False,False
 Diablos,False,False,False,False,False
 Emerald Congalala,False,False,False,False,False
-Fatalis,True,True,False,False,False
-Furious Rajang,False,False,False,True,False
+Fatalis,True,False,False,False,True
+Furious Rajang,False,False,True,False,False
 Gendrome,False,False,False,False,False
-Giadrome,False,False,True,False,False
-Gold Rathian,False,True,False,False,False
-Gravios,False,True,False,False,False
-Green Plesioth,False,False,False,False,True
+Giadrome,False,False,False,True,False
+Gold Rathian,True,False,False,False,False
+Gravios,True,False,False,False,False
+Green Plesioth,False,True,False,False,False
 Gypceros,False,False,False,False,False
 Hypnocatrice,False,False,False,False,False
 Iodrome,False,False,False,False,False
-Khezu,False,False,False,True,False
-King Shakalaka,False,True,False,False,False
-Kirin,False,False,False,True,False
-Kushala Daora,True,False,False,False,False
-Lao-Shan Lung,True,False,False,False,False
-Lavasioth,False,True,False,False,False
-Lunastra,True,True,False,False,False
+Khezu,False,False,True,False,False
+King Shakalaka,True,False,False,False,False
+Kirin,False,False,True,False,False
+Kushala Daora,False,False,False,False,True
+Lao-Shan Lung,False,False,False,False,True
+Lavasioth,True,False,False,False,False
+Lunastra,True,False,False,False,True
 Monoblos,False,False,False,False,False
 Nargacuga,False,False,False,False,False
-Pink Rathian,False,True,False,False,False
-Plesioth,False,False,False,False,True
-Plum D.Hermitaur,False,False,False,False,True
+Pink Rathian,True,False,False,False,False
+Plesioth,False,True,False,False,False
+Plum D.Hermitaur,False,True,False,False,False
 Purple Gypceros,False,False,False,False,False
-Rajang,False,False,False,True,False
-Rathalos,False,True,False,False,False
-Rathian,False,True,False,False,False
-Red Khezu,False,False,False,True,False
-Rusted Kushala Daora,True,False,False,False,False
-Scarred Yian Garuga,False,True,False,False,False
+Rajang,False,False,True,False,False
+Rathalos,True,False,False,False,False
+Rathian,True,False,False,False,False
+Red Khezu,False,False,True,False,False
+Rusted Kushala Daora,False,False,False,False,True
+Scarred Yian Garuga,True,False,False,False,False
 Shen Gaoren,False,False,False,False,False
-Shogun Ceanataur,False,False,False,False,True
-Silver Rathalos,False,True,False,False,False
-Teostra,True,True,False,False,False
-Terra S.Ceanataur,False,False,False,False,True
+Shogun Ceanataur,False,True,False,False,False
+Silver Rathalos,True,False,False,False,False
+Teostra,True,False,False,False,True
+Terra S.Ceanataur,False,True,False,False,False
 Tigrex,False,False,False,False,False
-Ukanlos,True,False,True,False,False
+Ukanlos,False,False,False,True,True
 Velocidrome,False,False,False,False,False
 Vespoid Queen,False,False,False,False,False
-White Fatalis,True,True,False,False,False
+White Fatalis,True,False,False,False,True
 White Monoblos,False,False,False,False,False
-Yama Tsukami,True,False,False,False,False
-Yian Garuga,False,True,False,False,False
-Yian Kut-Ku,False,True,False,False,False
+Yama Tsukami,False,False,False,False,True
+Yian Garuga,True,False,False,False,False
+Yian Kut-Ku,True,False,False,False,False

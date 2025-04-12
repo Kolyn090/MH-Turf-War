@@ -1,72 +1,72 @@
-monster,dragon_element,fire_element,ice_element,thunder_element,water_element
+monster,fire_element,water_element,thunder_element,ice_element,dragon_element
 Acidic Glavenus,False,False,False,False,False
 Alatreon,True,True,True,True,True
 Ancient Leshen,False,False,False,False,False
-Anjanath,False,True,False,False,False
-Azure Rathalos,False,True,False,False,False
+Anjanath,True,False,False,False,False
+Azure Rathalos,True,False,False,False,False
 Banbaro,False,False,False,False,False
-Barioth,False,False,True,False,False
-Barroth,False,False,False,False,True
-Bazelgeuse,False,True,False,False,False
-Behemoth,False,True,False,True,False
-Beotodus,False,False,True,False,False
+Barioth,False,False,False,True,False
+Barroth,False,True,False,False,False
+Bazelgeuse,True,False,False,False,False
+Behemoth,True,False,True,False,False
+Beotodus,False,False,False,True,False
 Black Diablos,False,False,False,False,False
 Blackveil Vaal Hazak,False,False,False,False,False
 Brachydios,False,False,False,False,False
 Brute Tigrex,False,False,False,False,False
-Coral Pukei-Pukei,False,False,False,False,True
-Deviljho,True,False,False,False,True
+Coral Pukei-Pukei,False,True,False,False,False
+Deviljho,False,True,False,False,True
 Diablos,False,False,False,False,False
 Dodogama,False,False,False,False,False
-Ebony Odogaron,True,False,False,False,False
-Fatalis,False,True,False,False,False
-Frostfang Barioth,False,False,True,False,False
-Fulgur Anjanath,False,False,False,True,False
-Furious Rajang,False,False,False,True,False
-Glavenus,False,True,False,False,False
-Gold Rathian,False,True,False,False,False
+Ebony Odogaron,False,False,False,False,True
+Fatalis,True,False,False,False,False
+Frostfang Barioth,False,False,False,True,False
+Fulgur Anjanath,False,False,True,False,False
+Furious Rajang,False,False,True,False,False
+Glavenus,True,False,False,False,False
+Gold Rathian,True,False,False,False,False
 Great Girros,False,False,False,False,False
 Great Jagras,False,False,False,False,False
-Jyuratodus,False,False,False,False,True
-Kirin,False,False,False,True,False
+Jyuratodus,False,True,False,False,False
+Kirin,False,False,True,False,False
 Kulu-Ya-Ku,False,False,False,False,False
-Kulve Taroth,False,True,False,False,False
-Kushala Daora,True,False,True,False,False
-Lavasioth,False,True,False,False,False
-Legiana,False,False,True,False,False
+Kulve Taroth,True,False,False,False,False
+Kushala Daora,False,False,False,True,True
+Lavasioth,True,False,False,False,False
+Legiana,False,False,False,True,False
 Leshen,False,False,False,False,False
-Lunastra,False,True,False,False,False
-Namielle,False,False,False,True,True
+Lunastra,True,False,False,False,False
+Namielle,False,True,True,False,False
 Nargacuga,False,False,False,False,False
 Nergigante,False,False,False,False,False
 Nightshade Paolumu,False,False,False,False,False
 Odogaron,False,False,False,False,False
 Paolumu,False,False,False,False,False
-Pink Rathian,False,True,False,False,False
+Pink Rathian,True,False,False,False,False
 Pukei-Pukei,False,False,False,False,False
 Radobaan,False,False,False,False,False
-Raging Brachydios,False,True,False,False,False
-Rajang,False,False,False,True,False
-Rathalos,False,True,False,False,False
-Rathian,False,True,False,False,False
+Raging Brachydios,True,False,False,False,False
+Rajang,False,False,True,False,False
+Rathalos,True,False,False,False,False
+Rathian,True,False,False,False,False
 Ruiner Nergigante,False,False,False,False,False
-Safi'jiiva,False,True,False,False,False
-Savage Deviljho,True,False,False,False,False
-Scarred Yian Garuga,False,True,False,False,False
-Seething Bazelgeuse,False,True,False,False,False
+Safi'jiiva,True,False,False,False,False
+Savage Deviljho,False,False,False,False,True
+Scarred Yian Garuga,True,False,False,False,False
+Seething Bazelgeuse,True,False,False,False,False
 Shara Ishvalda,False,False,False,False,False
-Shrieking Legiana,False,False,True,False,False
-Silver Rathalos,False,True,False,False,False
-Stygian Zinogre,True,False,False,False,False
-Teostra,True,True,False,False,False
+Shrieking Legiana,False,False,False,True,False
+Silver Rathalos,True,False,False,False,False
+Stygian Zinogre,False,False,False,False,True
+Teostra,True,False,False,False,True
 Tigrex,False,False,False,False,False
-Tobi-Kadachi,False,False,False,True,False
+Tobi-Kadachi,False,False,True,False,False
 Tzitzi-Ya-Ku,False,False,False,False,False
-Uragaan,False,True,False,False,False
+Uragaan,True,False,False,False,False
 Vaal Hazak,False,False,False,False,False
-Velkhana,False,False,True,False,False
+Velkhana,False,False,False,True,False
 Viper Tobi-Kadachi,False,False,False,False,False
-Xeno'jiiva,True,True,False,False,False
-Yian Garuga,False,True,False,False,False
-Zinogre,False,False,False,True,False
-Zorah Magdaros,False,True,False,False,False
+Xeno'jiiva,True,False,False,False,True
+Yian Garuga,True,False,False,False,False
+Zinogre,False,False,True,False,False
+Zorah Magdaros,True,False,False,False,False

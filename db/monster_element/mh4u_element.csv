@@ -1,84 +1,84 @@
-monster,dragon_element,fire_element,ice_element,thunder_element,water_element
-Akantor,True,True,False,False,False
-Apex Deviljho,True,False,False,False,False
+monster,fire_element,water_element,thunder_element,ice_element,dragon_element
+Akantor,True,False,False,False,True
+Apex Deviljho,False,False,False,False,True
 Apex Diablos,False,False,False,False,False
-Apex Gravios,False,True,False,False,False
-Apex Rajang,False,False,False,True,False
+Apex Gravios,True,False,False,False,False
+Apex Rajang,False,False,True,False,False
 Apex Seregios,False,False,False,False,False
-Apex Tidal Najarala,False,False,False,False,True
+Apex Tidal Najarala,False,True,False,False,False
 Apex Tigrex,False,False,False,False,False
-Apex Zinogre,False,False,False,True,False
-Ash Kecha Wacha,False,True,False,False,False
-Azure Rathalos,False,True,False,False,False
-Basarios,False,True,False,False,False
+Apex Zinogre,False,False,True,False,False
+Ash Kecha Wacha,True,False,False,False,False
+Azure Rathalos,True,False,False,False,False
+Basarios,True,False,False,False,False
 Berserk Tetsucabra,False,False,False,False,False
 Black Diablos,False,False,False,False,False
-Black Gravios,False,True,False,False,False
-Blue Yian Kut-Ku,False,True,False,False,False
-Brachydios,False,True,False,False,False
+Black Gravios,True,False,False,False,False
+Blue Yian Kut-Ku,True,False,False,False,False
+Brachydios,True,False,False,False,False
 Brute Tigrex,False,False,False,False,False
-Cephadrome,False,False,False,False,True
-Chameleos,True,False,False,False,False
+Cephadrome,False,True,False,False,False
+Chameleos,False,False,False,False,True
 Chaotic Gore Magala,False,False,False,False,False
-Congalala,False,True,False,False,False
-Crimson Fatalis,True,True,False,False,False
+Congalala,True,False,False,False,False
+Crimson Fatalis,True,False,False,False,True
 Dah'ren Mohran,False,False,False,False,False
-Daimyo Hermitaur,False,False,False,False,True
+Daimyo Hermitaur,False,True,False,False,False
 Dalamadur,False,False,False,False,False
 Desert Seltas,False,False,False,False,False
-Desert Seltas Queen,False,False,False,False,True
-Deviljho,True,False,False,False,False
+Desert Seltas Queen,False,True,False,False,False
+Deviljho,False,False,False,False,True
 Diablos,False,False,False,False,False
-Emerald Congalala,False,True,False,False,False
-Fatalis,True,True,False,False,False
-Furious Rajang,False,False,False,True,False
+Emerald Congalala,True,False,False,False,False
+Fatalis,True,False,False,False,True
+Furious Rajang,False,False,True,False,False
 Gendrome,False,False,False,False,False
-Gogmazios,False,True,False,False,False
-Gold Rathian,False,True,False,False,False
+Gogmazios,True,False,False,False,False
+Gold Rathian,True,False,False,False,False
 Gore Magala,False,False,False,False,False
-Gravios,False,True,False,False,False
+Gravios,True,False,False,False,False
 Great Jaggi,False,False,False,False,False
 Gypceros,False,False,False,False,False
 Iodrome,False,False,False,False,False
-Kecha Wacha,False,False,False,False,True
-Khezu,False,False,False,True,False
-Kirin,False,False,False,True,False
-Kushala Daora,True,False,True,False,False
-Lagombi,False,False,True,False,False
+Kecha Wacha,False,True,False,False,False
+Khezu,False,False,True,False,False
+Kirin,False,False,True,False,False
+Kushala Daora,False,False,False,True,True
+Lagombi,False,False,False,True,False
 Molten Tigrex,False,False,False,False,False
 Monoblos,False,False,False,False,False
 Najarala,False,False,False,False,False
 Nerscylla,False,False,False,False,False
-Oroshi Kirin,False,False,True,False,False
-Pink Rathian,False,True,False,False,False
-Plum D.Hermitaur,False,False,False,False,True
+Oroshi Kirin,False,False,False,True,False
+Pink Rathian,True,False,False,False,False
+Plum D.Hermitaur,False,True,False,False,False
 Purple Gypceros,False,False,False,False,False
 Raging Brachydios,False,False,False,False,False
-Rajang,False,False,False,True,False
-Rathalos,False,True,False,False,False
-Rathian,False,True,False,False,False
-Red Khezu,False,False,False,True,False
-Ruby Basarios,False,True,False,False,False
-Rusted Kushala Daora,True,False,False,False,False
-Savage Deviljho,True,False,False,False,False
+Rajang,False,False,True,False,False
+Rathalos,True,False,False,False,False
+Rathian,True,False,False,False,False
+Red Khezu,False,False,True,False,False
+Ruby Basarios,True,False,False,False,False
+Rusted Kushala Daora,False,False,False,False,True
+Savage Deviljho,False,False,False,False,True
 Seltas,False,False,False,False,False
-Seltas Queen,False,False,False,False,True
+Seltas Queen,False,True,False,False,False
 Seregios,False,False,False,False,False
 Shagaru Magala,False,False,False,False,False
 Shah Dalamadur,False,False,False,False,False
 Shrouded Nerscylla,False,False,False,False,False
-Silver Rathalos,False,True,False,False,False
-Stygian Zinogre,True,False,False,False,False
-Teostra,True,True,False,False,False
+Silver Rathalos,True,False,False,False,False
+Stygian Zinogre,False,False,False,False,True
+Teostra,True,False,False,False,True
 Tetsucabra,False,False,False,False,False
-Tidal Najarala,False,False,False,False,True
-Tigerstripe Zamtrios,False,False,False,False,True
+Tidal Najarala,False,True,False,False,False
+Tigerstripe Zamtrios,False,True,False,False,False
 Tigrex,False,False,False,False,False
-Ukanlos,False,False,True,False,False
+Ukanlos,False,False,False,True,False
 Velocidrome,False,False,False,False,False
-White Fatalis,True,False,False,True,False
+White Fatalis,False,False,True,False,True
 White Monoblos,False,False,False,False,False
-Yian Garuga,False,True,False,False,False
-Yian Kut-Ku,False,True,False,False,False
-Zamtrios,False,False,True,False,True
-Zinogre,False,False,False,True,False
+Yian Garuga,True,False,False,False,False
+Yian Kut-Ku,True,False,False,False,False
+Zamtrios,False,True,False,True,False
+Zinogre,False,False,True,False,False

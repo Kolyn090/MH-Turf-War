@@ -1,81 +1,81 @@
-monster,dragon_weak,fire_weak,ice_weak,thunder_weak,water_weak
-Acidic Glavenus (crystallized),80,180,70,110,65
-Acidic Glavenus (not crystallized),85,170,75,105,70
-Alatreon (on dragon),65,46,46,36,36
-Alatreon (on fire),7,0,104,22,75
-Alatreon (on ice),7,104,0,75,22
-Ancient Leshen,45,85,25,45,0
-Anjanath,65,0,195,125,290
-Azure Rathalos,235,0,125,70,70
-Banbaro,100,60,0,25,0
-Barioth,70,145,0,100,30
-Barroth (covered in mud),75,0,125,0,625
-Barroth (not covered in mud),55,185,95,0,0
-Bazelgeuse,75,0,75,105,45
-Behemoth,165,80,120,110,145
-Beotodus,0,160,0,65,30
-Black Diablos,0,0,305,110,255
-Blackveil Vaal Hazak,220,230,165,115,80
-Brachydios,25,0,125,45,85
-Brute Tigrex,75,5,56,88,110
-Coral Pukei-Pukei,30,30,115,50,0
-Deviljho,275,145,115,275,145
-Diablos,280,0,335,120,280
-Dodogama,105,0,190,345,190
-Ebony Odogaron,60,185,185,185,275
-Fatalis,134,97,69,45,45
-Frostfang Barioth,70,145,0,100,30
-Fulgur Anjanath (charged),35,65,105,0,165
-Fulgur Anjanath (not charged),40,80,185,0,135
-Furious Rajang,0,0,100,0,40
-Glavenus,110,0,118,80,220
-Gold Rathian,240,0,60,120,60
-Great Girros,35,50,95,0,185
-Great Jagras,60,275,100,155,0
-Jyuratodus (covered in mud),50,10,50,25,200
-Jyuratodus (not covered in mud),35,55,35,120,0
-Kirin,35,125,90,0,90
-Kulu-Ya-Ku,95,95,95,95,140
-Kulve Taroth (covered in gold),30,0,45,40,40
-Kulve Taroth (not covered in gold),100,40,90,80,80
-Kushala Daora,110,110,0,190,55
-Lavasioth (not hardened),55,50,95,95,295
-Lavasioth (when hardened),45,170,0,0,100
-Legiana,55,120,0,170,70
-Leshen,45,85,25,45,0
-Lunastra,230,0,310,52,52
-Namielle,210,255,140,0,5
-Nargacuga,45,90,45,160,0
-Nergigante,210,160,120,340,135
-Nightshade Paolumu,0,80,45,45,130
-Odogaron,0,45,245,135,80
-Paolumu,75,180,75,120,0
-Pink Rathian,240,0,60,120,60
-Pukei-Pukei,60,85,135,235,0
-Radobaan,130,85,95,85,85
-Raging Brachydios,30,0,155,55,125
-Rajang,0,0,120,0,35
-Rathalos,225,0,75,125,75
-Rathian,250,0,70,130,70
-Ruiner Nergigante,355,160,120,305,135
+monster,fire_weak,water_weak,thunder_weak,ice_weak,dragon_weak
+Acidic Glavenus (crystallized),180,65,110,70,80
+Acidic Glavenus (not crystallized),170,70,105,75,85
+Alatreon (on dragon),46,36,36,46,65
+Alatreon (on fire),0,75,22,104,7
+Alatreon (on ice),104,22,75,0,7
+Ancient Leshen,85,0,45,25,45
+Anjanath,0,290,125,195,65
+Azure Rathalos,0,70,70,125,235
+Banbaro,60,0,25,0,100
+Barioth,145,30,100,0,70
+Barroth (covered in mud),0,625,0,125,75
+Barroth (not covered in mud),185,0,0,95,55
+Bazelgeuse,0,45,105,75,75
+Behemoth,80,145,110,120,165
+Beotodus,160,30,65,0,0
+Black Diablos,0,255,110,305,0
+Blackveil Vaal Hazak,230,80,115,165,220
+Brachydios,0,85,45,125,25
+Brute Tigrex,5,110,88,56,75
+Coral Pukei-Pukei,30,0,50,115,30
+Deviljho,145,145,275,115,275
+Diablos,0,280,120,335,280
+Dodogama,0,190,345,190,105
+Ebony Odogaron,185,275,185,185,60
+Fatalis,97,45,45,69,134
+Frostfang Barioth,145,30,100,0,70
+Fulgur Anjanath (charged),65,165,0,105,35
+Fulgur Anjanath (not charged),80,135,0,185,40
+Furious Rajang,0,40,0,100,0
+Glavenus,0,220,80,118,110
+Gold Rathian,0,60,120,60,240
+Great Girros,50,185,0,95,35
+Great Jagras,275,0,155,100,60
+Jyuratodus (covered in mud),10,200,25,50,50
+Jyuratodus (not covered in mud),55,0,120,35,35
+Kirin,125,90,0,90,35
+Kulu-Ya-Ku,95,140,95,95,95
+Kulve Taroth (covered in gold),0,40,40,45,30
+Kulve Taroth (not covered in gold),40,80,80,90,100
+Kushala Daora,110,55,190,0,110
+Lavasioth (not hardened),50,295,95,95,55
+Lavasioth (when hardened),170,100,0,0,45
+Legiana,120,70,170,0,55
+Leshen,85,0,45,25,45
+Lunastra,0,52,52,310,230
+Namielle,255,5,0,140,210
+Nargacuga,90,0,160,45,45
+Nergigante,160,135,340,120,210
+Nightshade Paolumu,80,130,45,45,0
+Odogaron,45,80,135,245,0
+Paolumu,180,0,120,75,75
+Pink Rathian,0,60,120,60,240
+Pukei-Pukei,85,0,235,135,60
+Radobaan,85,85,85,95,130
+Raging Brachydios,0,125,55,155,30
+Rajang,0,35,0,120,0
+Rathalos,0,75,125,75,225
+Rathian,0,70,130,70,250
+Ruiner Nergigante,160,135,305,120,355
 Safi'jiiva,674,674,674,674,674
-Savage Deviljho,195,155,115,205,145
-Scarred Yian Garuga,95,0,50,0,180
-Seething Bazelgeuse,30,0,115,85,30
-Shara Ishvalda,75,80,245,0,160
-Shrieking Legiana,35,125,0,75,40
-Silver Rathalos,235,0,125,70,70
-Stygian Zinogre (emitting light),0,90,90,150,120
-Stygian Zinogre (not emitting light),0,49,49,86,70
-Teostra,40,0,140,40,190
-Tigrex,80,10,25,110,55
-Tobi-Kadachi,50,105,105,0,215
+Savage Deviljho,155,145,205,115,195
+Scarred Yian Garuga,0,180,0,50,95
+Seething Bazelgeuse,0,30,85,115,30
+Shara Ishvalda,80,160,0,245,75
+Shrieking Legiana,125,40,75,0,35
+Silver Rathalos,0,70,70,125,235
+Stygian Zinogre (emitting light),90,120,150,90,0
+Stygian Zinogre (not emitting light),49,70,86,49,0
+Teostra,0,190,40,140,40
+Tigrex,10,55,110,25,80
+Tobi-Kadachi,105,215,0,105,50
 Tzitzi-Ya-Ku,105,105,140,140,105
-Uragaan,330,0,215,55,370
-Vaal Hazak,150,270,175,120,60
-Velkhana,190,310,0,125,70
-Viper Tobi-Kadachi,30,30,80,115,0
-Xeno'jiiva,325,325,360,360,360
-Yian Garuga,95,0,50,0,180
-Zinogre,45,45,190,0,130
-Zorah Magdaros,135,0,95,65,135
+Uragaan,0,370,55,215,330
+Vaal Hazak,270,60,120,175,150
+Velkhana,310,70,125,0,190
+Viper Tobi-Kadachi,30,0,115,80,30
+Xeno'jiiva,325,360,360,360,325
+Yian Garuga,0,180,0,50,95
+Zinogre,45,130,0,190,45
+Zorah Magdaros,0,135,65,95,135

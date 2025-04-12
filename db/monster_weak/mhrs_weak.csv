@@ -1,79 +1,79 @@
-monster,dragon_weak,fire_weak,ice_weak,thunder_weak,water_weak
-Aknosom,0,0,70,140,150
-Almudron,50,175,145,60,0
-Amatsu,115,105,50,25,0
-Anjanath,35,0,110,65,155
-Apex Arzuros,0,155,129,80,0
-Apex Diablos,125,0,200,85,133
-Apex Mizutsune,131,51,65,150,0
-Apex Rathalos,150,0,45,80,45
-Apex Rathian,125,0,35,65,35
-Apex Zinogre,40,55,100,0,70
-Arzuros,0,143,110,108,30
-Astalos,75,80,195,0,127
-Aurora Somnacanth,0,110,0,55,0
-Barioth,70,140,0,100,30
-Barroth,35,130,75,0,0
-Basarios,282,176,150,150,239
-Bazelgeuse,55,0,55,70,25
-Bishaten,0,55,90,30,0
-Blood Orange Bishaten,0,0,30,55,90
-Chameleos,105,145,0,70,5
-Chaotic Gore Magala,150,171,50,100,0
-Crimson Glow Valstrax,0,185,195,190,195
-Daimyo Hermitaur,0,200,90,175,45
-Diablos,170,0,210,80,170
-Espinas,45,0,75,15,45
-Flaming Espinas,45,0,15,50,75
-Furious Rajang,0,0,130,0,35
-Gaismagorm,190,50,0,115,0
-Garangolm,0,48,30,60,0
-Gold Rathian,0,5,115,195,150
-Gore Magala,80,125,45,85,0
-Goss Harag,0,120,0,55,0
-Great Baggi,0,80,0,40,40
-Great Izuchi,25,55,55,100,75
-Great Wroggi,0,0,80,10,40
-Jyuratodus,35,55,35,120,0
-Khezu,35,152,35,0,35
-Kulu-Ya-Ku,80,80,80,80,120
-Kushala Daora,80,80,0,135,40
-Lagombi,0,100,0,55,0
-Lucent Nargacuga,125,0,215,0,80
-Lunagaron,40,90,0,60,0
-Magma Almudron,80,0,225,100,293
-Magnamalo,0,0,40,90,120
-Malzeno,190,115,75,0,0
-Mizutsune,131,51,65,150,0
-Nargacuga,85,145,70,250,20
-Narwa the Allmother,75,5,40,0,15
-Primordial Malzeno,120,75,45,0,0
-Pukei-Pukei,40,55,90,160,0
-Pyre Rakna-Kadaki,0,0,75,0,150
-Rajang,0,0,130,0,35
-Rakna-Kadaki,0,0,110,0,45
-Rathalos,150,0,45,80,45
-Rathian,125,0,35,65,35
-Risen Chameleos,105,145,0,70,5
-Risen Crimson Glow Valstrax,0,185,195,190,195
-Risen Kushala Daora,80,80,0,135,40
-Risen Shagaru Magala,155,125,45,85,0
-Risen Teostra,35,0,85,35,110
-Royal Ludroth,10,185,50,65,0
-Scorned Magnamalo,0,0,35,80,105
-Seething Bazelgeuse,45,0,100,70,30
-Seregios,40,0,75,135,50
-Shagaru Magala,155,125,45,85,0
-Shogun Ceanataur,0,120,85,150,45
-Silver Rathalos,0,0,100,160,200
-Somnacanth,0,80,0,165,0
-Teostra,35,0,85,35,110
-Tetranadon,30,90,50,165,0
-Thunder Serpent Narwa,80,5,45,0,15
-Tigrex,80,10,25,110,55
-Tobi-Kadachi,35,80,70,0,145
-Velkhana,95,185,5,65,65
-Violet Mizutsune,37,0,160,120,81
-Volvidon,0,0,75,55,105
-Wind Serpent Ibushi,250,205,95,60,110
-Zinogre,40,55,100,0,70
+monster,fire_weak,water_weak,thunder_weak,ice_weak,dragon_weak
+Aknosom,0,150,140,70,0
+Almudron,175,0,60,145,50
+Amatsu,105,0,25,50,115
+Anjanath,0,155,65,110,35
+Apex Arzuros,155,0,80,129,0
+Apex Diablos,0,133,85,200,125
+Apex Mizutsune,51,0,150,65,131
+Apex Rathalos,0,45,80,45,150
+Apex Rathian,0,35,65,35,125
+Apex Zinogre,55,70,0,100,40
+Arzuros,143,30,108,110,0
+Astalos,80,127,0,195,75
+Aurora Somnacanth,110,0,55,0,0
+Barioth,140,30,100,0,70
+Barroth,130,0,0,75,35
+Basarios,176,239,150,150,282
+Bazelgeuse,0,25,70,55,55
+Bishaten,55,0,30,90,0
+Blood Orange Bishaten,0,90,55,30,0
+Chameleos,145,5,70,0,105
+Chaotic Gore Magala,171,0,100,50,150
+Crimson Glow Valstrax,185,195,190,195,0
+Daimyo Hermitaur,200,45,175,90,0
+Diablos,0,170,80,210,170
+Espinas,0,45,15,75,45
+Flaming Espinas,0,75,50,15,45
+Furious Rajang,0,35,0,130,0
+Gaismagorm,50,0,115,0,190
+Garangolm,48,0,60,30,0
+Gold Rathian,5,150,195,115,0
+Gore Magala,125,0,85,45,80
+Goss Harag,120,0,55,0,0
+Great Baggi,80,40,40,0,0
+Great Izuchi,55,75,100,55,25
+Great Wroggi,0,40,10,80,0
+Jyuratodus,55,0,120,35,35
+Khezu,152,35,0,35,35
+Kulu-Ya-Ku,80,120,80,80,80
+Kushala Daora,80,40,135,0,80
+Lagombi,100,0,55,0,0
+Lucent Nargacuga,0,80,0,215,125
+Lunagaron,90,0,60,0,40
+Magma Almudron,0,293,100,225,80
+Magnamalo,0,120,90,40,0
+Malzeno,115,0,0,75,190
+Mizutsune,51,0,150,65,131
+Nargacuga,145,20,250,70,85
+Narwa the Allmother,5,15,0,40,75
+Primordial Malzeno,75,0,0,45,120
+Pukei-Pukei,55,0,160,90,40
+Pyre Rakna-Kadaki,0,150,0,75,0
+Rajang,0,35,0,130,0
+Rakna-Kadaki,0,45,0,110,0
+Rathalos,0,45,80,45,150
+Rathian,0,35,65,35,125
+Risen Chameleos,145,5,70,0,105
+Risen Crimson Glow Valstrax,185,195,190,195,0
+Risen Kushala Daora,80,40,135,0,80
+Risen Shagaru Magala,125,0,85,45,155
+Risen Teostra,0,110,35,85,35
+Royal Ludroth,185,0,65,50,10
+Scorned Magnamalo,0,105,80,35,0
+Seething Bazelgeuse,0,30,70,100,45
+Seregios,0,50,135,75,40
+Shagaru Magala,125,0,85,45,155
+Shogun Ceanataur,120,45,150,85,0
+Silver Rathalos,0,200,160,100,0
+Somnacanth,80,0,165,0,0
+Teostra,0,110,35,85,35
+Tetranadon,90,0,165,50,30
+Thunder Serpent Narwa,5,15,0,45,80
+Tigrex,10,55,110,25,80
+Tobi-Kadachi,80,145,0,70,35
+Velkhana,185,65,65,5,95
+Violet Mizutsune,0,81,120,160,37
+Volvidon,0,105,55,75,0
+Wind Serpent Ibushi,205,110,60,95,250
+Zinogre,55,70,0,100,40

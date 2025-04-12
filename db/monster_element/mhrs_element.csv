@@ -1,79 +1,79 @@
-monster,dragon_element,fire_element,ice_element,thunder_element,water_element
-Aknosom,False,True,False,False,False
-Almudron,False,False,False,False,True
-Amatsu,False,False,False,False,True
-Anjanath,False,True,False,False,False
+monster,fire_element,water_element,thunder_element,ice_element,dragon_element
+Aknosom,True,False,False,False,False
+Almudron,False,True,False,False,False
+Amatsu,False,True,False,False,False
+Anjanath,True,False,False,False,False
 Apex Arzuros,False,False,False,False,False
 Apex Diablos,False,False,False,False,False
-Apex Mizutsune,False,False,False,False,True
-Apex Rathalos,False,True,False,False,False
-Apex Rathian,False,True,False,False,False
-Apex Zinogre,False,False,False,True,False
+Apex Mizutsune,False,True,False,False,False
+Apex Rathalos,True,False,False,False,False
+Apex Rathian,True,False,False,False,False
+Apex Zinogre,False,False,True,False,False
 Arzuros,False,False,False,False,False
-Astalos,False,False,False,True,False
-Aurora Somnacanth,False,False,True,False,False
-Barioth,False,False,True,False,False
+Astalos,False,False,True,False,False
+Aurora Somnacanth,False,False,False,True,False
+Barioth,False,False,False,True,False
 Barroth,False,False,False,False,False
-Basarios,False,True,False,False,False
-Bazelgeuse,False,True,False,False,False
+Basarios,True,False,False,False,False
+Bazelgeuse,True,False,False,False,False
 Bishaten,False,False,False,False,False
-Blood Orange Bishaten,False,True,False,False,False
-Chameleos,True,False,False,False,False
+Blood Orange Bishaten,True,False,False,False,False
+Chameleos,False,False,False,False,True
 Chaotic Gore Magala,False,False,False,False,False
-Crimson Glow Valstrax,True,False,False,False,False
-Daimyo Hermitaur,False,False,False,False,True
+Crimson Glow Valstrax,False,False,False,False,True
+Daimyo Hermitaur,False,True,False,False,False
 Diablos,False,False,False,False,False
-Espinas,False,True,False,False,False
-Flaming Espinas,False,True,False,False,False
-Furious Rajang,False,False,False,True,False
+Espinas,True,False,False,False,False
+Flaming Espinas,True,False,False,False,False
+Furious Rajang,False,False,True,False,False
 Gaismagorm,False,False,False,False,False
-Garangolm,False,True,False,False,True
-Gold Rathian,False,True,False,False,False
+Garangolm,True,True,False,False,False
+Gold Rathian,True,False,False,False,False
 Gore Magala,False,False,False,False,False
-Goss Harag,False,False,True,False,False
+Goss Harag,False,False,False,True,False
 Great Baggi,False,False,False,False,False
 Great Izuchi,False,False,False,False,False
 Great Wroggi,False,False,False,False,False
-Jyuratodus,False,False,False,False,True
-Khezu,False,False,False,True,False
+Jyuratodus,False,True,False,False,False
+Khezu,False,False,True,False,False
 Kulu-Ya-Ku,False,False,False,False,False
-Kushala Daora,True,False,True,False,False
-Lagombi,False,False,True,False,False
+Kushala Daora,False,False,False,True,True
+Lagombi,False,False,False,True,False
 Lucent Nargacuga,False,False,False,False,False
-Lunagaron,False,False,True,False,False
-Magma Almudron,False,True,False,False,False
+Lunagaron,False,False,False,True,False
+Magma Almudron,True,False,False,False,False
 Magnamalo,False,False,False,False,False
-Malzeno,True,False,False,False,False
-Mizutsune,False,False,False,False,True
+Malzeno,False,False,False,False,True
+Mizutsune,False,True,False,False,False
 Nargacuga,False,False,False,False,False
-Narwa the Allmother,False,False,False,True,False
-Primordial Malzeno,True,False,False,False,False
+Narwa the Allmother,False,False,True,False,False
+Primordial Malzeno,False,False,False,False,True
 Pukei-Pukei,False,False,False,False,False
-Pyre Rakna-Kadaki,False,True,False,False,False
-Rajang,False,False,False,True,False
-Rakna-Kadaki,False,True,False,False,False
-Rathalos,False,True,False,False,False
-Rathian,False,True,False,False,False
+Pyre Rakna-Kadaki,True,False,False,False,False
+Rajang,False,False,True,False,False
+Rakna-Kadaki,True,False,False,False,False
+Rathalos,True,False,False,False,False
+Rathian,True,False,False,False,False
 Risen Chameleos,False,False,False,False,False
-Risen Crimson Glow Valstrax,True,False,False,False,False
-Risen Kushala Daora,True,False,True,False,False
+Risen Crimson Glow Valstrax,False,False,False,False,True
+Risen Kushala Daora,False,False,False,True,True
 Risen Shagaru Magala,False,False,False,False,False
-Risen Teostra,False,True,False,False,False
-Royal Ludroth,False,False,False,False,True
+Risen Teostra,True,False,False,False,False
+Royal Ludroth,False,True,False,False,False
 Scorned Magnamalo,False,False,False,False,False
-Seething Bazelgeuse,False,True,False,False,False
+Seething Bazelgeuse,True,False,False,False,False
 Seregios,False,False,False,False,False
 Shagaru Magala,False,False,False,False,False
-Shogun Ceanataur,False,False,False,False,True
-Silver Rathalos,False,True,False,False,False
+Shogun Ceanataur,False,True,False,False,False
+Silver Rathalos,True,False,False,False,False
 Somnacanth,False,False,False,False,False
-Teostra,True,True,False,False,False
-Tetranadon,False,False,False,False,True
-Thunder Serpent Narwa,False,False,False,True,False
+Teostra,True,False,False,False,True
+Tetranadon,False,True,False,False,False
+Thunder Serpent Narwa,False,False,True,False,False
 Tigrex,False,False,False,False,False
-Tobi-Kadachi,False,False,False,True,False
-Velkhana,False,False,True,False,False
-Violet Mizutsune,False,True,False,False,False
+Tobi-Kadachi,False,False,True,False,False
+Velkhana,False,False,False,True,False
+Violet Mizutsune,True,False,False,False,False
 Volvidon,False,False,False,False,False
-Wind Serpent Ibushi,True,False,False,False,False
-Zinogre,False,False,False,True,False
+Wind Serpent Ibushi,False,False,False,False,True
+Zinogre,False,False,True,False,False

@@ -1,31 +1,31 @@
-monster,dragon_weak,fire_weak,ice_weak,thunder_weak,water_weak
-Ajarakan,95,0,180,0,225
-Arkveld,107,79,83,79,79
-Balahara,40,55,40,160,0
-Blangonga,0,210,0,105,35
-Chatacabra,0,50,110,205,30
-Congalala,35,175,105,65,65
-Doshaguma,30,145,45,80,40
-Gore Magala,105,255,65,140,0
-Gravios,305,0,85,45,315
-Guardian Arkveld,107,79,83,79,79
-Guardian Doshaguma,85,175,70,85,35
-Guardian Ebony Odogaron,150,160,160,160,265
-Guardian Fulgur Anjanath,115,70,230,0,180
-Guardian Rathalos,190,0,80,120,80
-Gypceros,80,120,100,0,55
-Hirabami,50,160,0,80,50
-Jin Dahaad,50,140,0,50,50
-Lala Barina,0,200,50,100,0
-Mizutsune,131,51,65,150,0
-Nerscylla,0,235,55,75,0
-Nu Udra,110,0,55,105,260
-Quematrice,35,0,60,35,180
-Rathalos,240,0,60,90,60
-Rathian,150,0,45,90,45
-Rey Dau,35,35,85,0,60
-Rompopolo,35,45,45,45,150
-Uth Duna,35,85,35,380,0
-Xu Wu,0,65,345,65,46
-Yian Kut-Ku,20,50,150,140,100
-Zoh Shia,405,180,105,80,80
+monster,fire_weak,water_weak,thunder_weak,ice_weak,dragon_weak
+Ajarakan,0,225,0,180,95
+Arkveld,79,79,79,83,107
+Balahara,55,0,160,40,40
+Blangonga,210,35,105,0,0
+Chatacabra,50,30,205,110,0
+Congalala,175,65,65,105,35
+Doshaguma,145,40,80,45,30
+Gore Magala,255,0,140,65,105
+Gravios,0,315,45,85,305
+Guardian Arkveld,79,79,79,83,107
+Guardian Doshaguma,175,35,85,70,85
+Guardian Ebony Odogaron,160,265,160,160,150
+Guardian Fulgur Anjanath,70,180,0,230,115
+Guardian Rathalos,0,80,120,80,190
+Gypceros,120,55,0,100,80
+Hirabami,160,50,80,0,50
+Jin Dahaad,140,50,50,0,50
+Lala Barina,200,0,100,50,0
+Mizutsune,51,0,150,65,131
+Nerscylla,235,0,75,55,0
+Nu Udra,0,260,105,55,110
+Quematrice,0,180,35,60,35
+Rathalos,0,60,90,60,240
+Rathian,0,45,90,45,150
+Rey Dau,35,60,0,85,35
+Rompopolo,45,150,45,45,35
+Uth Duna,85,0,380,35,35
+Xu Wu,65,46,65,345,0
+Yian Kut-Ku,50,100,140,150,20
+Zoh Shia,180,80,80,105,405

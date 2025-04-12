@@ -1,94 +1,94 @@
-monster,dragon_weak,fire_weak,ice_weak,thunder_weak,water_weak
-Agnaktor,230,80,170,150,330
-Ahtal Ka,0,0,20,115,80
-Akantor,310,10,50,265,130
-Alatreon,150,95,85,30,115
-Amatsu,230,250,80,70,0
-Arzuros,0,105,90,70,25
-Astalos,40,60,95,0,62
-Azurebolt Astalos,35,55,90,0,57
-Barioth,50,115,0,85,25
-Barroth,40,150,90,0,0
-Basarios,133,80,80,80,115
-Blangonga,0,95,0,75,25
-Bloodbath Diablos,175,0,175,175,276
-Brachydios,20,0,70,30,100
-Bulldrome,0,30,5,50,15
-Cephadrome,35,5,132,95,82
-Chameleos,270,345,10,205,0
-Chaotic Gore Magala,190,270,70,160,0
-Congalala,0,155,95,80,80
-Crimson Fatalis,290,40,280,85,170
-Crystalbeard Uragaan,205,0,120,80,270
-Daimyo Hermitaur,35,355,170,290,115
-Deadeye Yian Garuga,130,50,170,50,270
-Deviljho,215,110,85,215,110
-Diablos,90,20,143,90,90
-Dreadking Rathalos,295,30,110,220,110
-Dreadqueen Rathian,295,30,120,220,120
-Drilltusk Tetsucabra,80,0,60,145,170
-Duramboros,150,280,195,175,75
-Elderfrost Gammoth,0,150,0,95,30
-Fatalis,140,115,80,40,40
-Furious Rajang,0,10,180,0,50
-Gammoth,0,220,0,105,35
-Gendrome,15,35,70,55,35
-Giadrome,15,70,10,55,35
-Glavenus,120,0,160,110,310
-Gold Rathian,0,20,115,285,200
-Gore Magala,125,235,70,150,0
-Gravios,265,20,110,80,430
-Great Maccao,10,80,50,30,50
-Grimclaw Tigrex,200,30,110,275,160
-Gypceros,140,260,180,0,90
-Hellblade Glavenus,175,0,190,175,215
-Iodrome,15,35,20,55,55
-Kecha Wacha,0,195,75,105,0
-Khezu,60,270,60,0,60
-Kirin,40,70,60,0,70
-Kushala Daora,355,135,0,355,50
-Lagiacrus,60,95,60,0,0
-Lagombi,0,100,0,55,0
-Lao-Shan Lung,225,210,50,140,50
-Lavasioth,35,0,70,70,110
-Malfestio,30,45,30,35,80
-Mizutsune,171,116,100,260,0
-Najarala,40,60,270,90,150
-Nakarkos,160,105,0,40,0
-Nargacuga,160,220,90,300,60
-Nerscylla,0,150,50,150,0
-Nibelsnarf,80,0,270,230,170
-Nightcloak Malfestio,30,45,30,35,80
-Plesioth,35,130,35,155,0
-Raging Brachydios,40,0,220,70,150
-Rajang,0,10,180,0,50
-Rathalos,130,15,55,110,55
-Rathian,145,15,60,105,60
-Redhelm Arzuros,0,50,45,15,0
-Royal Ludroth,10,200,50,65,0
-Rustrazor Ceanataur,0,145,145,225,80
-Savage Deviljho,200,200,200,320,200
-Seltas,0,80,40,110,40
-Seltas Queen,0,230,210,100,0
-Seregios,80,30,150,270,130
-Shagaru Magala,280,240,80,150,0
-Shogun Ceanataur,0,145,105,190,55
-Silver Rathalos,0,20,145,230,300
-Silverwind Nargacuga,170,220,100,305,65
-Snowbaron Lagombi,0,80,0,55,0
-Soulseer Mizutsune,171,116,100,220,0
-Stonefist Hermitaur,0,70,105,195,0
-Teostra,150,0,150,80,145
-Tetsucabra,80,0,95,235,270
-Thunderlord Zinogre,85,125,245,0,155
-Tigrex,160,30,80,245,140
-Ukanlos,185,265,0,220,70
-Uragaan,335,0,210,40,370
-Valstrax,0,255,255,255,255
-Velocidrome,15,55,70,55,55
-Volvidon,0,0,75,55,105
-White Fatalis,215,200,160,80,80
-Yian Garuga,65,25,85,25,145
-Yian Kut-Ku,20,45,150,125,100
-Zamtrios,90,270,0,275,0
-Zinogre,85,125,230,0,165
+monster,fire_weak,water_weak,thunder_weak,ice_weak,dragon_weak
+Agnaktor,80,330,150,170,230
+Ahtal Ka,0,80,115,20,0
+Akantor,10,130,265,50,310
+Alatreon,95,115,30,85,150
+Amatsu,250,0,70,80,230
+Arzuros,105,25,70,90,0
+Astalos,60,62,0,95,40
+Azurebolt Astalos,55,57,0,90,35
+Barioth,115,25,85,0,50
+Barroth,150,0,0,90,40
+Basarios,80,115,80,80,133
+Blangonga,95,25,75,0,0
+Bloodbath Diablos,0,276,175,175,175
+Brachydios,0,100,30,70,20
+Bulldrome,30,15,50,5,0
+Cephadrome,5,82,95,132,35
+Chameleos,345,0,205,10,270
+Chaotic Gore Magala,270,0,160,70,190
+Congalala,155,80,80,95,0
+Crimson Fatalis,40,170,85,280,290
+Crystalbeard Uragaan,0,270,80,120,205
+Daimyo Hermitaur,355,115,290,170,35
+Deadeye Yian Garuga,50,270,50,170,130
+Deviljho,110,110,215,85,215
+Diablos,20,90,90,143,90
+Dreadking Rathalos,30,110,220,110,295
+Dreadqueen Rathian,30,120,220,120,295
+Drilltusk Tetsucabra,0,170,145,60,80
+Duramboros,280,75,175,195,150
+Elderfrost Gammoth,150,30,95,0,0
+Fatalis,115,40,40,80,140
+Furious Rajang,10,50,0,180,0
+Gammoth,220,35,105,0,0
+Gendrome,35,35,55,70,15
+Giadrome,70,35,55,10,15
+Glavenus,0,310,110,160,120
+Gold Rathian,20,200,285,115,0
+Gore Magala,235,0,150,70,125
+Gravios,20,430,80,110,265
+Great Maccao,80,50,30,50,10
+Grimclaw Tigrex,30,160,275,110,200
+Gypceros,260,90,0,180,140
+Hellblade Glavenus,0,215,175,190,175
+Iodrome,35,55,55,20,15
+Kecha Wacha,195,0,105,75,0
+Khezu,270,60,0,60,60
+Kirin,70,70,0,60,40
+Kushala Daora,135,50,355,0,355
+Lagiacrus,95,0,0,60,60
+Lagombi,100,0,55,0,0
+Lao-Shan Lung,210,50,140,50,225
+Lavasioth,0,110,70,70,35
+Malfestio,45,80,35,30,30
+Mizutsune,116,0,260,100,171
+Najarala,60,150,90,270,40
+Nakarkos,105,0,40,0,160
+Nargacuga,220,60,300,90,160
+Nerscylla,150,0,150,50,0
+Nibelsnarf,0,170,230,270,80
+Nightcloak Malfestio,45,80,35,30,30
+Plesioth,130,0,155,35,35
+Raging Brachydios,0,150,70,220,40
+Rajang,10,50,0,180,0
+Rathalos,15,55,110,55,130
+Rathian,15,60,105,60,145
+Redhelm Arzuros,50,0,15,45,0
+Royal Ludroth,200,0,65,50,10
+Rustrazor Ceanataur,145,80,225,145,0
+Savage Deviljho,200,200,320,200,200
+Seltas,80,40,110,40,0
+Seltas Queen,230,0,100,210,0
+Seregios,30,130,270,150,80
+Shagaru Magala,240,0,150,80,280
+Shogun Ceanataur,145,55,190,105,0
+Silver Rathalos,20,300,230,145,0
+Silverwind Nargacuga,220,65,305,100,170
+Snowbaron Lagombi,80,0,55,0,0
+Soulseer Mizutsune,116,0,220,100,171
+Stonefist Hermitaur,70,0,195,105,0
+Teostra,0,145,80,150,150
+Tetsucabra,0,270,235,95,80
+Thunderlord Zinogre,125,155,0,245,85
+Tigrex,30,140,245,80,160
+Ukanlos,265,70,220,0,185
+Uragaan,0,370,40,210,335
+Valstrax,255,255,255,255,0
+Velocidrome,55,55,55,70,15
+Volvidon,0,105,55,75,0
+White Fatalis,200,80,80,160,215
+Yian Garuga,25,145,25,85,65
+Yian Kut-Ku,45,100,125,150,20
+Zamtrios,270,0,275,0,90
+Zinogre,125,165,0,230,85
