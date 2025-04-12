@@ -1,0 +1,81 @@
+monster,fire_weak,water_weak,thunder_weak,ice_weak,dragon_weak
+Acidic Glavenus (crystallized),0.27,0.03,0.1,0.04,0.05
+Acidic Glavenus (not crystallized),0.25,0.04,0.1,0.05,0.06
+Alatreon (on dragon),0.05,0.03,0.03,0.05,0.1
+Alatreon (on fire),0.0,0.08,0.01,0.15,0.0
+Alatreon (on ice),0.15,0.01,0.08,0.0,0.0
+Ancient Leshen,0.13,0.0,0.04,0.01,0.04
+Anjanath,0.0,0.43,0.08,0.19,0.02
+Azure Rathalos,0.0,0.03,0.03,0.1,0.35
+Banbaro,0.05,0.0,0.01,0.0,0.15
+Barioth,0.22,0.01,0.1,0.0,0.05
+Barroth (covered in mud),0.0,0.93,0.0,0.04,0.01
+Barroth (not covered in mud),0.27,0.0,0.0,0.07,0.02
+Bazelgeuse,0.0,0.03,0.16,0.08,0.08
+Behemoth,0.06,0.19,0.11,0.13,0.24
+Beotodus,0.24,0.01,0.04,0.0,0.0
+Black Diablos,0.0,0.32,0.06,0.45,0.0
+Blackveil Vaal Hazak,0.34,0.04,0.09,0.18,0.31
+Brachydios,0.0,0.09,0.02,0.19,0.01
+Brute Tigrex,0.0,0.16,0.1,0.04,0.08
+Coral Pukei-Pukei,0.01,0.0,0.03,0.17,0.01
+Deviljho,0.11,0.11,0.41,0.07,0.41
+Diablos,0.0,0.35,0.06,0.5,0.35
+Dodogama,0.0,0.16,0.51,0.16,0.05
+Ebony Odogaron,0.18,0.41,0.18,0.18,0.02
+Fatalis,0.1,0.02,0.02,0.05,0.2
+Frostfang Barioth,0.22,0.01,0.1,0.0,0.05
+Fulgur Anjanath (charged),0.04,0.24,0.0,0.1,0.01
+Fulgur Anjanath (not charged),0.05,0.15,0.0,0.27,0.01
+Furious Rajang,0.0,0.02,0.0,0.15,0.0
+Glavenus,0.0,0.33,0.04,0.09,0.08
+Gold Rathian,0.0,0.02,0.09,0.02,0.36
+Great Girros,0.02,0.27,0.0,0.07,0.01
+Great Jagras,0.41,0.0,0.13,0.05,0.02
+Jyuratodus (covered in mud),0.0,0.3,0.0,0.02,0.02
+Jyuratodus (not covered in mud),0.04,0.0,0.18,0.02,0.02
+Kirin,0.19,0.1,0.0,0.1,0.01
+Kulu-Ya-Ku,0.1,0.21,0.1,0.1,0.1
+Kulve Taroth (covered in gold),0.0,0.05,0.05,0.07,0.03
+Kulve Taroth (not covered in gold),0.02,0.09,0.09,0.12,0.15
+Kushala Daora,0.09,0.02,0.28,0.0,0.09
+Lavasioth (not hardened),0.01,0.44,0.05,0.05,0.02
+Lavasioth (when hardened),0.25,0.09,0.0,0.0,0.02
+Legiana,0.13,0.04,0.25,0.0,0.03
+Leshen,0.13,0.0,0.04,0.01,0.04
+Lunastra,0.0,0.01,0.01,0.46,0.25
+Namielle,0.38,0.0,0.0,0.11,0.26
+Nargacuga,0.08,0.0,0.24,0.02,0.02
+Nergigante,0.11,0.08,0.5,0.06,0.19
+Nightshade Paolumu,0.07,0.19,0.02,0.02,0.0
+Odogaron,0.01,0.04,0.11,0.36,0.0
+Paolumu,0.27,0.0,0.12,0.05,0.05
+Pink Rathian,0.0,0.02,0.09,0.02,0.36
+Pukei-Pukei,0.05,0.0,0.35,0.12,0.02
+Radobaan,0.08,0.08,0.08,0.1,0.19
+Raging Brachydios,0.0,0.15,0.03,0.23,0.01
+Rajang,0.0,0.02,0.0,0.18,0.0
+Rathalos,0.0,0.04,0.1,0.04,0.33
+Rathian,0.0,0.03,0.1,0.03,0.37
+Ruiner Nergigante,0.11,0.08,0.39,0.06,0.53
+Safi'jiiva,1.0,1.0,1.0,1.0,1.0
+Savage Deviljho,0.17,0.15,0.3,0.1,0.28
+Scarred Yian Garuga,0.0,0.27,0.0,0.02,0.07
+Seething Bazelgeuse,0.0,0.01,0.09,0.17,0.01
+Shara Ishvalda,0.04,0.16,0.0,0.36,0.03
+Shrieking Legiana,0.19,0.02,0.07,0.0,0.01
+Silver Rathalos,0.0,0.03,0.03,0.1,0.35
+Stygian Zinogre (emitting light),0.08,0.14,0.22,0.08,0.0
+Stygian Zinogre (not emitting light),0.04,0.08,0.13,0.04,0.0
+Teostra,0.0,0.28,0.01,0.15,0.01
+Tigrex,0.0,0.04,0.16,0.01,0.09
+Tobi-Kadachi,0.08,0.32,0.0,0.08,0.02
+Tzitzi-Ya-Ku,0.12,0.12,0.21,0.21,0.12
+Uragaan,0.0,0.55,0.01,0.19,0.44
+Vaal Hazak,0.4,0.02,0.08,0.17,0.12
+Velkhana,0.46,0.02,0.07,0.0,0.17
+Viper Tobi-Kadachi,0.01,0.0,0.17,0.08,0.01
+Xeno'jiiva,0.44,0.53,0.53,0.53,0.44
+Yian Garuga,0.0,0.27,0.0,0.02,0.07
+Zinogre,0.02,0.13,0.0,0.28,0.02
+Zorah Magdaros,0.0,0.2,0.05,0.1,0.2
