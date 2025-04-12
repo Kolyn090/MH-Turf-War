@@ -1,0 +1,52 @@
+monster,dragon_element,fire_element,ice_element,thunder_element,water_element
+Abyssal Lagiacrus,False,False,False,True,False
+Agnaktor,False,True,False,False,False
+Alatreon,True,True,True,True,True
+Arzuros,False,False,False,False,False
+Azure Rathalos,False,True,False,False,False
+Baleful Gigginox,False,False,False,True,False
+Barioth,False,False,True,False,False
+Barroth,False,False,False,False,False
+Black Diablos,False,False,False,False,False
+Brachydios,False,True,False,False,False
+Ceadeus,True,False,False,False,True
+Crimson Qurupeco,False,False,False,True,False
+Deviljho,True,False,False,False,False
+Diablos,False,False,False,False,False
+Dire Miralis,False,True,False,False,False
+Duramboros,False,False,False,False,False
+Gigginox,False,False,False,False,False
+Glacial Agnaktor,False,False,True,False,True
+Gobul,False,False,False,False,True
+Gold Rathian,False,True,False,False,False
+Goldbeard Ceadeus,False,False,False,False,True
+Great Baggi,False,False,False,False,False
+Great Jaggi,False,False,False,False,False
+Great Wroggi,False,False,False,False,False
+Green Nargacuga,False,False,False,False,False
+Green Plesioth,False,False,False,False,True
+Hallowed Jhen Mohran,False,False,False,False,False
+Ivory Lagiacrus,False,False,False,True,True
+Jade Barroth,False,False,True,False,False
+Jhen Mohran,False,False,False,False,False
+Lagiacrus,False,False,False,True,False
+Lagombi,False,False,True,False,False
+Lucent Nargacuga,False,False,False,False,False
+Nargacuga,False,False,False,False,False
+Nibelsnarf,False,False,False,False,False
+Pink Rathian,False,True,False,False,False
+Plesioth,False,False,False,False,True
+Purple Ludroth,False,False,False,False,False
+Qurupeco,False,True,False,False,False
+Rathalos,False,True,False,False,False
+Rathian,False,True,False,False,False
+Royal Ludroth,False,False,False,False,True
+Rust Duramboros,False,False,False,False,False
+Sand Barioth,False,False,False,False,False
+Savage Deviljho,True,False,False,False,False
+Silver Rathalos,False,True,False,False,False
+Steel Uragaan,False,True,False,False,False
+Stygian Zinogre,True,False,False,False,False
+Uragaan,False,True,False,False,False
+Volvidon,False,False,False,False,False
+Zinogre,False,False,False,True,False

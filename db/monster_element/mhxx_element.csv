@@ -1,0 +1,94 @@
+monster,dragon_element,fire_element,ice_element,thunder_element,water_element
+Agnaktor,False,True,False,False,False
+Ahtal Ka,False,False,False,False,False
+Akantor,True,True,False,False,False
+Alatreon,True,True,True,True,False
+Amatsu,False,False,False,False,True
+Arzuros,False,False,False,False,False
+Astalos,False,False,False,True,False
+Azurebolt Astalos,False,False,False,True,False
+Barioth,False,False,True,False,False
+Barroth,False,False,False,False,True
+Basarios,False,True,False,False,False
+Blangonga,False,False,True,False,False
+Bloodbath Diablos,False,False,False,False,False
+Brachydios,False,False,False,False,False
+Bulldrome,False,False,False,False,False
+Cephadrome,False,False,False,False,True
+Chameleos,True,False,False,False,False
+Chaotic Gore Magala,False,False,False,False,False
+Congalala,False,True,False,False,False
+Crimson Fatalis,True,True,False,False,False
+Crystalbeard Uragaan,False,True,False,False,False
+Daimyo Hermitaur,False,False,False,False,True
+Deadeye Yian Garuga,False,True,False,False,False
+Deviljho,True,True,True,False,True
+Diablos,False,False,False,False,False
+Dreadking Rathalos,False,True,False,False,False
+Dreadqueen Rathian,False,True,False,False,False
+Drilltusk Tetsucabra,False,False,True,False,False
+Duramboros,False,False,False,False,False
+Elderfrost Gammoth,False,False,True,False,False
+Fatalis,True,True,False,False,False
+Furious Rajang,False,False,False,True,False
+Gammoth,False,False,True,False,False
+Gendrome,False,False,False,False,False
+Giadrome,False,False,True,False,False
+Glavenus,False,True,False,False,False
+Gold Rathian,False,True,False,False,False
+Gore Magala,False,False,False,False,False
+Gravios,False,True,False,False,False
+Great Maccao,False,False,False,False,False
+Grimclaw Tigrex,False,False,True,False,True
+Gypceros,False,False,False,False,False
+Hellblade Glavenus,False,True,False,False,False
+Iodrome,False,False,False,False,False
+Kecha Wacha,False,False,False,False,True
+Khezu,False,False,False,True,False
+Kirin,False,False,False,True,False
+Kushala Daora,True,False,True,False,False
+Lagiacrus,False,False,False,True,True
+Lagombi,False,False,True,False,False
+Lao-Shan Lung,False,False,False,False,False
+Lavasioth,False,True,False,False,False
+Malfestio,False,False,False,False,False
+Mizutsune,False,False,False,False,True
+Najarala,False,False,False,False,False
+Nakarkos,True,True,False,True,False
+Nargacuga,False,False,False,False,False
+Nerscylla,False,False,False,False,False
+Nibelsnarf,False,False,False,False,True
+Nightcloak Malfestio,False,False,False,False,False
+Plesioth,False,False,False,False,True
+Raging Brachydios,False,False,False,False,False
+Rajang,False,False,False,True,False
+Rathalos,False,True,False,False,False
+Rathian,False,True,False,False,False
+Redhelm Arzuros,False,False,False,False,False
+Royal Ludroth,False,False,False,False,True
+Rustrazor Ceanataur,False,False,False,False,True
+Savage Deviljho,True,True,True,False,True
+Seltas,False,False,False,False,False
+Seltas Queen,False,False,False,False,True
+Seregios,False,False,False,False,False
+Shagaru Magala,False,False,False,False,False
+Shogun Ceanataur,False,False,False,False,True
+Silver Rathalos,False,True,False,False,False
+Silverwind Nargacuga,False,False,False,False,False
+Snowbaron Lagombi,False,False,True,False,False
+Soulseer Mizutsune,False,True,False,False,True
+Stonefist Hermitaur,False,False,False,False,True
+Teostra,True,True,False,False,False
+Tetsucabra,False,False,True,False,False
+Thunderlord Zinogre,False,False,False,True,False
+Tigrex,False,False,True,False,True
+Ukanlos,False,False,True,False,False
+Uragaan,False,True,False,False,False
+Valstrax,True,False,False,False,False
+Velocidrome,False,False,False,False,False
+Volvidon,False,False,False,False,False
+White Fatalis,True,False,False,True,False
+Yian Garuga,False,True,False,False,False
+Yian Kut-Ku,False,True,False,False,False
+Zamtrios,False,False,True,False,True
+Zinogre,False,False,False,True,False

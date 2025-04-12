@@ -1,0 +1,61 @@
+monster,dragon_element,fire_element,ice_element,thunder_element,water_element
+Akantor,True,True,False,False,False
+Ashen Lao-Shan Lung,True,False,False,False,False
+Azure Rathalos,False,True,False,False,False
+Basarios,False,True,False,False,False
+Black Diablos,False,False,False,False,False
+Black Gravios,False,True,False,False,False
+Blangonga,False,False,True,False,False
+Blue Yian Kut-Ku,False,True,False,False,False
+Bulldrome,False,False,False,False,False
+Cephadrome,False,False,False,False,False
+Chameleos,True,False,False,False,False
+Congalala,False,False,False,False,False
+Copper Blangonga,False,False,False,False,False
+Crimson Fatalis,True,True,False,False,False
+Daimyo Hermitaur,False,False,False,False,True
+Diablos,False,False,False,False,False
+Emerald Congalala,False,False,False,False,False
+Fatalis,True,True,False,False,False
+Furious Rajang,False,False,False,True,False
+Gendrome,False,False,False,False,False
+Giadrome,False,False,True,False,False
+Gold Rathian,False,True,False,False,False
+Gravios,False,True,False,False,False
+Green Plesioth,False,False,False,False,True
+Gypceros,False,False,False,False,False
+Hypnocatrice,False,False,False,False,False
+Iodrome,False,False,False,False,False
+Khezu,False,False,False,True,False
+King Shakalaka,False,True,False,False,False
+Kirin,False,False,False,True,False
+Kushala Daora,True,False,False,False,False
+Lao-Shan Lung,True,False,False,False,False
+Lavasioth,False,True,False,False,False
+Lunastra,True,True,False,False,False
+Monoblos,False,False,False,False,False
+Nargacuga,False,False,False,False,False
+Pink Rathian,False,True,False,False,False
+Plesioth,False,False,False,False,True
+Plum D.Hermitaur,False,False,False,False,True
+Purple Gypceros,False,False,False,False,False
+Rajang,False,False,False,True,False
+Rathalos,False,True,False,False,False
+Rathian,False,True,False,False,False
+Red Khezu,False,False,False,True,False
+Rusted Kushala Daora,True,False,False,False,False
+Scarred Yian Garuga,False,True,False,False,False
+Shen Gaoren,False,False,False,False,False
+Shogun Ceanataur,False,False,False,False,True
+Silver Rathalos,False,True,False,False,False
+Teostra,True,True,False,False,False
+Terra S.Ceanataur,False,False,False,False,True
+Tigrex,False,False,False,False,False
+Ukanlos,True,False,True,False,False
+Velocidrome,False,False,False,False,False
+Vespoid Queen,False,False,False,False,False
+White Fatalis,True,True,False,False,False
+White Monoblos,False,False,False,False,False
+Yama Tsukami,True,False,False,False,False
+Yian Garuga,False,True,False,False,False
+Yian Kut-Ku,False,True,False,False,False
