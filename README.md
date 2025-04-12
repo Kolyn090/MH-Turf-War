@@ -2,6 +2,7 @@ Sources:
 1. fights.csv: turf war outcomes that have been observed in the games.
 - https://monsterhunter.fandom.com/wiki
 - https://www.youtube.com/watch?v=KX0GsR6atAw
+- https://monsterhunterwiki.org/wiki/MHWilds/Turf_Wars
 
 2. monster: contains information about monsters.
 
@@ -17,10 +18,10 @@ of the monsters, and each monster varies in the number of parts it has.)
 - https://github.com/TanukiSharp/mh-monster-info/tree/master/src/assets/data
 - https://mhrise.mhrice.info/
 - https://github.com/CrimsonNynja/monster-hunter-DB
-- https://monsterhunterwiki.org/wiki
+- https://monsterhunterwiki.org/wiki/Main_Page
 - https://github.com/Kolyn090/mhfu-db
 
-3. subspecies.csv: record of monsters' subspecies
+3. subspecies.csv: record of monsters' subspecies.
 - https://github.com/CrimsonNynja/monster-hunter-DB
 
 4. size: contains information about size of monsters.
