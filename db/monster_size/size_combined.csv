@@ -1,0 +1,467 @@
+monster,golden_largest_min,golden_largest_max,silver_min,silver_max,golden_smallest_min,golden_smallest_max,default
+Akantor,,,,,,,3049.0
+Ashen Lao-Shan Lung,,,,,,,6960.0
+Azure Rathalos,2085.6,2281.2,1890.1,2053.0,1433.9,1466.5,1629.4
+Basarios,1673.9,1725.8,1531.2,1660.9,1154.9,1206.8,1297.6
+Black Diablos,2790.8,2810.7,2451.9,2750.9,1893.7,1933.6,1993.4
+Black Gravios,2834.9,3002.9,2603.9,2813.9,1952.9,2036.9,2099.9
+Blangonga,1186.8,1229.8,1075.0,1178.2,825.6,851.4,860.0
+Blue Yian Kut-Ku,1122.2,1204.9,1048.6,1113.0,,809.4,919.8
+Bulldrome,741.5,820.7,639.6,724.5,503.7,554.7,566.0
+Cephadrome,1876.7,2015.2,1815.2,1861.3,1369.1,1430.6,1538.3
+Chameleos,2459.0,2633.4,2092.8,2451.6,1656.8,1674.2,1744.0
+Congalala,1239.8,1377.6,1141.4,1220.2,915.1,954.5,984.0
+Copper Blangonga,1186.8,1247.0,1075.0,1178.2,799.8,842.8,860.0
+Crimson Fatalis,,,,,,,4110.6
+Daimyo Hermitaur,1284.1,1325.9,1158.8,1273.7,887.4,918.7,1044.0
+Diablos,2770.8,3069.8,2491.8,2750.9,1893.7,1933.6,1993.4
+Emerald Congalala,1230.0,1377.6,1141.4,1220.2,934.8,954.5,984.0
+Fatalis,,,,,,,4110.6
+Furious Rajang,1344.0,1440.0,,,960.0,979.2,960.0
+Gendrome,908.2,959.9,878.7,900.8,649.8,664.6,738.4
+Giadrome,908.2,996.8,878.7,900.8,649.8,664.6,738.4
+Gold Rathian,2122.8,2303.8,,2106.4,1497.5,1530.4,1645.6
+Gravios,2834.9,2981.9,2582.9,2813.9,1973.9,2036.9,2099.9
+Green Plesioth,3102.4,3241.3,2847.7,3079.2,2153.1,2245.7,2315.2
+Gypceros,1267.1,1348.2,1206.3,,892.1,942.7,1013.7
+Hypnocatrice,1010.2,1177.2,960.1,1001.9,734.7,759.8,834.9
+Iodrome,908.2,959.9,878.7,900.8,649.8,664.6,738.4
+Khezu,1178.8,1205.0,1030.4,1170.1,436.6,803.3,873.2
+King Shakalaka,,,,,,,120.0
+Kirin,821.3,928.6,603.6,812.5,441.1,450.4,464.3
+Kushala Daora,1892.4,2176.3,1750.5,1876.6,1419.3,,1577.0
+Lao-Shan Lung,,,,,,,6960.0
+Lavasioth,2578.9,2845.7,2445.5,2556.7,1800.8,1889.7,2223.2
+Lunastra,2105.4,2262.0,2001.0,2088.0,1496.4,1583.4,1740.0
+Monoblos,2545.3,2805.9,2365.0,2525.3,1863.9,,2004.2
+Nargacuga,1970.7,2098.9,1906.6,1954.7,1377.9,1442.0,1602.2
+Pink Rathian,2122.8,2303.8,1941.8,2073.5,1464.6,1530.4,1645.6
+Plesioth,3102.4,3241.3,2847.7,3079.2,2153.1,2245.7,2315.2
+Plum D.Hermitaur,1284.1,1325.9,1158.8,1273.7,887.4,918.7,1044.0
+Purple Gypceros,1267.1,1368.5,1206.3,1257.0,902.2,942.7,1013.7
+Rajang,1344.0,1555.2,1228.8,1334.4,912.0,979.2,960.0
+Rathalos,2069.3,2216.0,1857.5,2053.0,1433.9,1466.5,1629.4
+Rathian,2139.3,2221.6,,,1448.1,1530.4,1645.6
+Red Khezu,1178.8,1205.0,1039.1,1170.1,,812.1,873.2
+Rusted Kushala Daora,1892.4,2065.9,1734.7,1797.8,1387.8,1435.1,1577.0
+Scarred Yian Garuga,1248.4,1341.2,1196.8,1238.0,887.3,938.8,1031.7
+Shen Gaoren,,,,,,,3388.0
+Shogun Ceanataur,1035.6,1294.5,983.8,1018.3,742.2,811.2,863.0
+Silver Rathalos,2069.3,2281.2,1890.1,2053.0,1433.9,1466.5,1629.4
+Teostra,2175.0,2436.0,1914.0,2157.6,1496.4,1531.2,1740.0
+Terra S.Ceanataur,1035.6,1260.0,983.8,1018.3,742.2,811.2,863.0
+Tigrex,2134.4,2394.7,2065.0,2117.1,1527.1,1561.8,1735.3
+Ukanlos,,,,,,,3188.0
+Velocidrome,908.2,959.9,878.7,900.8,649.8,664.6,738.4
+Vespoid Queen,,,,,,,691.0
+White Fatalis,,,,,,,4119.2
+White Monoblos,2545.3,2805.8,2324.9,2525.3,1863.9,1883.9,2004.2
+Yama Tsukami,,,,,,,4137.0
+Yian Garuga,1248.4,1341.2,1186.5,1238.0,887.3,938.8,1031.7
+Yian Kut-Ku,1122.2,1177.3,1048.6,1113.0,459.9,809.0,919.8
+Abyssal Lagiacrus,,,,,,,3969.3
+Agnaktor,3421.6,,,,,2416.1,
+Alatreon,,,,,,,3105.0
+Arzuros,,854.5,,,501.3,,
+Azure Rathalos,2248.6,,,,,1140.6,
+Baleful Gigginox,1266.7,,,,,982.8,
+Barioth,2580.9,,,,,1888.5,
+Barroth,1744.3,,,,,1217.1,
+Black Diablos,2930.3,,,,,1865.7,
+Brachydios,1932.7,,,,,1339.2,
+Ceadeus,,,,,,,5837.2
+Crimson Qurupeco,1085.4,,,,,347.3,
+Deviljho,4097.8,,,,,1803.0,
+Diablos,3030.0,,,,,1796.3,
+Dire Miralis,,,,,,,6288.0
+Duramboros,,2611.5,,,1317.8,,
+Gigginox,1266.7,,,,,982.8,
+Glacial Agnaktor,,3176.2,,,2198.9,,
+Gobul,2844.8,,,,,1562.9,
+Gold Rathian,2303.8,,,,,1151.9,
+Goldbeard Ceadeus,,,,,,,5837.2
+Great Baggi,1458.0,,,,,839.1,
+Great Jaggi,1261.3,,,,,822.3,
+Great Wroggi,,1168.1,,,831.7,,
+Green Nargacuga,2002.9,,,,,1410.0,
+Green Plesioth,3877.9,,,,,2125.3,
+Hallowed Jhen Mohran,,,,,,,11161.9
+Ivory Lagiacrus,3310.6,,,,,2516.0,
+Jade Barroth,1744.3,,,,,1266.0,
+Jhen Mohran,,,,,,,11161.9
+Lagiacrus,3310.6,,,,,2330.7,
+Lagombi,,1581.9,,,214.2,,
+Lucent Nargacuga,,,,,,,2503.8
+Nargacuga,2355.1,,,,,1602.2,
+Nibelsnarf,,4693.1,,,1808.1,,
+Pink Rathian,2303.8,,,,,1151.9,
+Plesioth,3877.9,,,,,1991.1,
+Purple Ludroth,1939.5,,,,,1467.9,
+Qurupeco,1085.4,,,,,772.8,
+Rathalos,2248.6,,,,,1140.6,
+Rathian,2303.8,,,,,1151.9,
+Royal Ludroth,1931.5,,,,,1359.8,
+Rust Duramboros,4454.8,,,,,2116.0,
+Sand Barioth,,2277.1,,,1730.6,,
+Savage Deviljho,4097.8,,,,,1803.0,
+Silver Rathalos,2248.6,,,,,1140.6,
+Steel Uragaan,3344.5,,,,,410.1,
+Stygian Zinogre,1887.0,,,,,1397.2,
+Uragaan,3344.5,,,,,410.1,
+Volvidon,,892.0,,,613.1,,
+Zinogre,2144.5,,,,,1217.4,
+Akantor,,,,,,,3049.0
+Apex Deviljho,4097.8,,,,,1803.0,
+Apex Diablos,2838.7,,,,,2157.4,
+Apex Gravios,3065.9,,,,,1049.3,
+Apex Rajang,1631.2,,,,,729.6,
+Apex Seregios,2246.5,,,,,1520.7,
+Apex Tidal Najarala,5271.5,,,,,,
+Apex Tigrex,2914.8,,,,,1388.2,
+Apex Zinogre,,1895.0,,,1078.5,,
+Ash Kecha Wacha,1329.2,,,,,779.8,
+Azure Rathalos,2248.6,,,,,1140.6,
+Basarios,1754.6,,,,,1154.9,
+Berserk Tetsucabra,1582.2,,,,,632.9,
+Black Diablos,2930.3,,,,,1865.7,
+Black Gravios,3065.9,,,,,1946.3,
+Blue Yian Kut-Ku,1195.7,,,,,449.3,
+Brachydios,1932.7,,,,,1339.2,
+Brute Tigrex,2169.4,,,,,1579.2,
+Cephadrome,2097.0,,,,,889.1,
+Chameleos,2811.3,,,,,1395.2,
+Chaotic Gore Magala,2201.1,,,,,1549.6,
+Congalala,1670.8,,,,,491.4,
+Crimson Fatalis,,,,,,,4110.6
+Dah'ren Mohran,,,,,,,11446.5
+Daimyo Hermitaur,1451.2,,,,,450.4,
+Dalamadur,,,,,,,44039.7
+Desert Seltas,766.6,,,,,542.0,
+Desert Seltas Queen,2291.9,,,,,1760.2,
+Deviljho,4097.8,,,,,1803.0,
+Diablos,3030.0,,,,,1796.3,
+Emerald Congalala,1670.8,,,,,491.4,
+Fatalis,,,,,,,4110.6
+Furious Rajang,1631.2,,,,,729.6,
+Gendrome,1037.4,,,,,615.0,
+Gogmazios,,,,,,,4920.5
+Gold Rathian,2303.8,,,,,1151.9,
+Gore Magala,2201.1,,,,,1549.6,
+Gravios,3065.9,,,,,1049.3,
+Great Jaggi,1261.3,,,,,822.3,
+Gypceros,1348.2,,,,,811.0,
+Iodrome,1641.1,,,,,619.7,
+Kecha Wacha,1019.0,,,,,779.8,
+Khezu,1225.5,,,,,436.6,
+Kirin,989.6,,,,,371.4,
+Kushala Daora,2391.4,,,,,1261.6,
+Lagombi,,1581.9,,,214.2,,
+Molten Tigrex,,,,,,,2313.9
+Monoblos,2918.8,,,,,1683.5,
+Najarala,5068.8,,,,,3568.4,
+Nerscylla,1126.6,,,,,651.6,
+Oroshi Kirin,989.6,,,,,483.8,
+Pink Rathian,2303.8,,,,,1151.9,
+Plum D. Hermitaur,1346.8,,,,,247.5,
+Purple Gypceros,1348.2,,,,,912.3,
+Raging Brachydios,,,,,,,2130.5
+Rajang,1631.2,,,,,729.6,
+Rathalos,2248.6,,,,,1140.6,
+Rathian,2303.8,,,,,1151.9,
+Red Khezu,1205.0,,,,,436.6,
+Ruby Basarios,1783.1,,,,,1269.6,
+Rusted Kushala Daora,2391.4,,,,,1261.6,
+Savage Deviljho,4097.8,,,,,1803.0,
+Seltas,769.9,,,,,542.0,
+Seltas Queen,1791.5,,,,,1271.4,
+Seregios,2246.5,,,,,1520.7,
+Shagaru Magala,2187.1,,,,,1564.7,
+Shah Dalamadur,,,,,,,44039.7
+Shrouded Nerscylla,1188.7,,,,,389.6,
+Silver Rathalos,2248.6,,,,,1140.6,
+Stygian Zinogre,1887.0,,,,,1397.2,
+Teostra,2610.0,,,,,1479.0,
+Tetsucabra,1582.2,,,,,632.9,
+Tidal Najarala,5271.5,,,,,,
+Tigerstripe Zamtrios,1899.5,,,,,1458.8,
+Tigrex,2914.8,,,,,1388.2,
+Ukanlos,,,,,,,3188.0
+Velocidrome,1736.4,,,,,590.7,
+White Fatalis,,,,,,,4110.6
+White Monoblos,2810.7,,,,,1849.2,
+Yian Garuga,1744.5,,,,,887.3,
+Yian Kut-Ku,1233.2,,,,,449.3,
+Zamtrios,3039.2,,,,,1367.6,
+Zinogre,2144.5,,,,,1217.4,
+Aknosom,1043.8,,,,,763.7,
+Almudron,3368.1,,,,,2425.0,
+Amatsu,,,,,,,3440.7
+Anjanath,2008.7,,,,,1448.9,
+Apex Arzuros,,751.9,,,681.9,,
+Apex Diablos,2838.7,,,,,2157.4,
+Apex Mizutsune,2506.3,,,,,2110.6,
+Apex Rathalos,2305.8,,,,,1818.4,
+Apex Rathian,2300.0,,,,,1936.8,
+Apex Zinogre,,1895.0,,,1078.5,,
+Arzuros,,854.5,,,501.3,,
+Astalos,2194.1,,,,,1544.6,
+Aurora Somnacanth,1900.3,,,,,1375.0,
+Barioth,2580.9,,,,,1888.5,
+Barroth,1744.3,,,,,1217.1,
+Basarios,1754.6,,,,,1154.9,
+Bazelgeuse,2410.5,,,,,1697.0,
+Bishaten,1054.3,,,,,832.3,
+Blood Orange Bishaten,1054.3,,,,,832.3,
+Chameleos,2811.3,,,,,1395.2,
+Chaotic Gore Magala,2165.9,,,,,1584.8,
+Crimson Glow Valstrax,2551.2,,,,,1796.1,
+Daimyo Hermitaur,1451.2,,,,,450.4,
+Diablos,3030.0,,,,,1796.3,
+Espinas,2477.2,,,,,836.9,
+Flaming Espinas,2812.0,,,,,1489.7,
+Furious Rajang,1188.2,,,,,869.4,
+Gaismagorm,,,,,,,4807.5
+Garangolm,1789.4,,,,,1529.3,
+Gold Rathian,2303.8,,,,,1151.9,
+Gore Magala,2201.1,,,,,1549.6,
+Goss Harag,906.0,,,,,643.2,
+Great Baggi,1458.0,,,,,839.1,
+Great Izuchi,1343.9,,,,,946.1,
+Great Wroggi,,1168.1,,,831.7,,
+Jyuratodus,1885.9,,,,,1327.7,
+Khezu,1225.5,,,,,436.6,
+Kulu-Ya-Ku,1126.5,,,,,802.1,
+Kushala Daora,2391.4,,,,,1261.6,
+Lagombi,,1581.9,,,214.2,,
+Lucent Nargacuga,,,,,,,2503.8
+Lunagaron,1739.5,,,,,1272.8,
+Magma Almudron,3341.2,,,,,2478.9,
+Magnamalo,2276.1,,,,,1602.4,
+Malzeno,2477.2,,,,,1843.5,
+Mizutsune,2356.4,,,,,565.5,
+Nargacuga,2355.1,,,,,1602.2,
+Narwa the Allmother,,,,,,,3875.1
+Primordial Malzeno,2435.5,,,,,1873.5,
+Pukei-Pukei,1345.0,,,,,970.2,
+Pyre Rakna-Kadaki,1071.2,,,,,771.2,
+Rajang,1631.2,,,,,729.6,
+Rakna-Kadaki,1071.2,,,,,771.2,
+Rathalos,2248.6,,,,,1140.6,
+Rathian,2303.8,,,,,1151.9,
+Risen Chameleos,2811.3,,,,,2249.1,
+Risen Crimson Glow Valstrax,2408.3,,,,,1836.9,
+Risen Kushala Daora,2388.5,,,,,1747.7,
+Risen Shagaru Magala,2030.6,,,,,1562.0,
+Risen Teostra,2201.9,,,,,1736.4,
+Royal Ludroth,1931.5,,,,,1359.8,
+Scorned Magnamalo,2343.5,,,,,1802.7,
+Seething Bazelgeuse,,2410.5,,,1697.0,,
+Seregios,2246.5,,,,,1520.7,
+Shagaru Magala,2187.1,,,,,1564.7,
+Shogun Ceanataur,1294.5,,,,,586.0,
+Silver Rathalos,2248.6,,,,,1140.6,
+Somnacanth,1900.0,,,,,1390.5,
+Teostra,2610.0,,,,,1479.0,
+Tetranadon,1206.2,,,,,849.2,
+Thunder Serpent Narwa,,,,,,,3875.1
+Tigrex,2914.8,,,,,1388.2,
+Tobi-Kadachi,1573.6,,,,,1157.5,
+Velkhana,3245.1,,,,,2336.4,
+Violet Mizutsune,2269.9,,,,,1738.0,
+Volvidon,,892.0,,,613.1,,
+Wind Serpent Ibushi,,,,,,,3068.6
+Zinogre,2144.49,,,,,1217.4,
+Acidic Glavenus,,2846.9,,,2135.2,,2609.7
+Alatreon,,,,,,,2969.0
+Ancient Leshen,,,,,,,633.8
+Anjanath,2008.7,,,,,1448.9,
+Azure Rathalos,2248.6,,,,,1140.6,
+Banbaro,,2957.9,,,2164.4,,2765.6
+Barioth,2580.9,,,,,1888.5,
+Barroth,1744.3,,,,,1217.1,
+Bazelgeuse,2410.5,,,,,1697.0,
+Behemoth,,,,,,,3423.7
+Beotodus,2044.3,,,,,1945.8,
+Black Diablos,2930.3,,,,,1865.7,
+Blackveil Vaal Hazak,,2577.3,,,1885.9,,2409.7
+Brachydios,1932.7,,,,,1339.2,
+Brute Tigrex,2169.4,,,,,1579.2,
+Coral Pukei-Pukei,,1322.9,,,992.2,,1212.7
+Deviljho,4097.8,,,,,1803.0,
+Diablos,3030.0,,,,,1796.3,
+Dodogama,2000.0,,,,,977.8,
+Ebony Odogaron,1722.0,,,,,1249.9,
+Fatalis,,,,,,,4137.2
+Frostfang Barioth,,2580.9,,,1888.5,,2413.1
+Fulgur Anjanath,2008.7,,,,,1481.8,
+Furious Rajang,1188.2,,,,,869.4,
+Glavenus,3174.4,,,,,2234.8,
+Gold Rathian,2303.8,,,,,1151.9,
+Great Girros,1316.4,,,,,937.3,
+Great Jagras,1997.4,,,,,277.4,
+Jyuratodus,1885.9,,,,,1327.7,
+Kirin,989.6,,,,,371.4,
+Kulu-Ya-Ku,1126.55,,,,,802.10,
+Kulve Taroth,,,,,,,4573.2
+Kushala Daora,2391.4,,,,,1261.6,
+Lavasioth,3476.6,,,,,1581.6,
+Legiana,2124.7,,,,,1495.8,
+Leshen,,,,,,,549.7
+Lunastra,2575.2,,,,,1444.2,
+Namielle,2560.3,,,,,1822.9,
+Nargacuga,2355.1,,,,,1602.2,
+Nergigante,2310.1,,,,,1626.3,
+Nightshade Paolumu,1406.3,,,,,1006.2,
+Odogaron,1735.9,,,,,541.6,
+Paolumu,1429.2,,,,,1006.2,
+Pink Rathian,2303.8,,,,,1151.9,
+Pukei-Pukei,1345.0,,,,,970.2,
+Radobaan,2182.2,,,,,1587.0,
+Raging Brachydios,,,,,,,2282.8
+Rajang,1631.2,,,,,729.6,
+Rathalos,2248.6,,,,,1140.6,
+Rathian,2303.8,,,,,1151.9,
+Ruiner Nergigante,2310.2,,,,,1663.3,
+Safi'jiiva,,,,,,,4799.8
+Savage Deviljho,4097.8,,,,,1803.0,
+Scarred Yian Garuga,1744.5,,,,,887.3,
+Seething Bazelgeuse,,2410.5,,,1697.0,,
+Shara Ishvalda,,,,,,,2910.9
+Shrieking Legiana,2253.0,,,,,1529.8,
+Silver Rathalos,2248.6,,,,,1140.6,
+Stygian Zinogre,1887.0,,,,,1397.2,
+Teostra,2610.0,,,,,1479.0,
+Tigrex,2914.8,,,,,1388.2,
+Tobi-Kadachi,1573.6,,,,,1157.5,
+Tzitzi-Ya-Ku,1117.5,,,,,786.8,
+Uragaan,3344.5,,,,,410.1,
+Vaal Hazak,2598.3,,,,,1844.0,
+Velkhana,3245.1,,,,,2336.4,
+Viper Tobi-Kadachi,,1560.6,,,1170.5,,1430.6
+Xeno'jiiva,,,,,,,4509.1
+Yian Garuga,1744.5,,,,,887.3,
+Zinogre,2144.5,,,,,1217.4,
+Zorah Magdaros,,,,,,,25764.6
+Agnaktor,3421.6,,,,,2416.1,
+Ahtal-Ka,,,,,,,1504.1
+Akantor,,,,,,,3049.0
+Alatreon,,,,,,,3105.0
+Amatsu,,,,,,,2969.0
+Arzuros,,854.5,,,501.3,,
+Astalos,2194.1,,,,,1544.6,
+Barioth,2580.9,,,,,1888.5,
+Barroth,1744.3,,,,,1217.1,
+Basarios,1754.6,,,,,1154.9,
+Blangonga,1221.2,,,,,791.1,
+Bloodbath Diablos,2770.8,,,,,2288.9,
+Boltreaver Astalos,2441.4,,,,,2108.4,
+Brachydios,1932.7,,,,,1339.2,
+Bulldrome,1188.6,,,,,509.3,
+Cephadrome,2097.0,,,,,889.1,
+Chameleos,2811.3,,,,,1395.2,
+Chaotic Gore Magala,2165.9,,,,,1584.8,
+Congalala,1670.8,,,,,491.4,
+Crimson Fatalis,,,,,,,4110.6
+Crystalbeard Uragaan,2920.2,,,,,2548.6,
+Daimyo Hermitaur,1451.2,,,,,450.4,
+Deadeye Yian Garuga,1482.9,,,,,1150.7,
+Deviljho,4097.8,,,,,1803.0,
+Diablos,3030.0,,,,,1796.3,
+Dreadking Rathalos,2263.6,,,,,1954.9,
+Dreadqueen Rathian,2261.2,,,,,1973.5,
+Drilltusk Tetsucabra,1649.1,,,,,1437.3,
+Duramboros,,2611.5,,,1317.8,,
+Elderfrost Gammoth,,2594.7,,,2276.1,,
+Fatalis,,,,,,,4110.6
+Furious Rajang,1188.2,,,,,869.4,
+Gammoth,,2617.5,,,455.2,,
+Gendrome,1037.4,,,,,615.0,
+Giadrome,1048.8,,,,,649.8,
+Glavenus,3174.4,,,,,2234.8,
+Gold Rathian,2303.8,,,,,1151.9,
+Gore Magala,2201.1,,,,,1549.6,
+Gravios,3065.9,,,,,1049.3,
+Great Maccao,1275.7,,,,,701.6,
+Grimclaw Tigrex,2333.2,,,,,2036.3,
+Gypceros,1348.2,,,,,811.0,
+Hellblade Glavenus,3409.0,,,,,2727.2,
+Iodrome,1641.1,,,,,619.7,
+Kecha Wacha,1019.0,,,,,779.8,
+Khezu,1225.5,,,,,436.6,
+Kirin,989.6,,,,,371.4,
+Kushala Daora,2391.4,,,,,1261.6,
+Lagiacrus,3310.6,,,,,2330.7,
+Lagombi,,1581.9,,,214.2,,
+Lao-Shan Lung,,,,,,,6960.0
+Lavasioth,3476.6,,,,,1581.6,
+Malfestio,758.5,,,,,305.8,
+Mizutsune,2356.4,,,,,565.5,
+Najarala,5068.75,,,,,3568.40,
+Nakarkos,,,,,,,3547.6
+Nargacuga,2355.1,,,,,1602.2,
+Nerscylla,1126.6,,,,,651.6,
+Nibelsnarf,,4693.1,,,1808.1,,
+Nightcloak Malfestio,901.6,,,,711.0,,733.0
+Plesioth,3877.9,,,,,1991.1,
+Raging Brachydios,,,,,,,2282.8
+Rajang,1631.2,,,,,729.6,
+Rathalos,2248.6,,,,,1140.6,
+Rathian,2303.8,,,,,1151.9,
+Redhelm Arzuros,904.6,,,,,781.2,
+Royal Ludroth,1931.5,,,,,1359.8,
+Rustrazor Ceanataur,784.8,,,,,660.9,688.4
+Savage Deviljho,4097.8,,,,,1803.0,
+Seltas,769.9,,,,,542.0,
+Seltas Queen,1791.5,,,,,1271.4,
+Seregios,2246.5,,,,,1520.7,
+Shagaru Magala,2187.1,,,,,1564.7,
+Shogun Ceanataur,1294.5,,,,,586.0,
+Silver Rathalos,2248.6,,,,,1140.6,
+Silverwind Nargacuga,2127.9,,,,,1617.2,
+Snowbaron Lagombi,799.4,,,,,607.5,
+Soulseer Mizutsune,2792.8,,,,,,
+Stonefist Hermitaur,1793.7,,,,,1449.9,
+Teostra,2610.0,,,,,1479.0,
+Tetsucabra,1582.2,,,,,632.9,
+Thunderlord Zinogre,1918.1,,,,,1488.4,
+Tigrex,2914.8,,,,,1388.2,
+Ukanlos,,,,,,,3188.0
+Uragaan,3344.5,,,,,410.1,
+Valstrax,2698.2,,,,,2267.0,
+Velocidrome,1736.4,,,,,590.7,
+Volvidon,,892.0,,,613.1,,
+White Fatalis,,,,,,,4110.6
+Yian Garuga,1744.5,,,,,887.3,
+Yian Kut-Ku,1233.2,,,,,449.3,
+Zamtrios,3039.2,,,,,1367.6,
+Zinogre,2144.5,,,,,1217.4,
+Ajarakan,1455.4,,,,,1047.9,
+Arkveld,2083.2,,,,,1483.2,
+Balahara,2371.6,,,,,1702.2,
+Blangonga,1221.2,,,,,791.1,
+Chatacabra,612.9,,,,,443.5,
+Congalala,1670.8,,,,,491.4,
+Doshaguma,1807.6,,,,,1237.5,
+Gore Magala,2201.1,,,,,1549.6,
+Gravios,3065.9,,,,,1049.3,
+Guardian Arkveld,,,,,,1666.5,
+Guardian Doshaguma,1724.2,,,,,1251.4,
+Guardian Ebony Odogaron,1708.2,,,,,,
+Guardian Fulgur Anjanath,2058.1,,,,,1465.3,
+Guardian Rathalos,2130.3,,,,,1533.8,
+Gypceros,1348.2,,,,,811.0,
+Hirabami,1908.2,,,,,1476.8,
+Jin Dahaad,4560.9,,,,,,
+Lala Barina,866.4,,,,,621.9,
+Mizutsune,2356.4,,,,,565.5,
+Nerscylla,1126.6,,,,,651.6,
+Nu Udra,2365.9,,,,,1884.3,
+Quematrice,1542.8,,,,,1107.3,
+Rathalos,2248.6,,,,,1140.6,
+Rathian,2303.8,,,,,1151.9,
+Rey Dau,2571.3,,,,,1851.4,
+Rompopolo,1497.3,,,,,1066.0,
+Uth Duna,3426.2,,,,,2681.4,
+Xu Wu,1745.4,,,,,1242.7,
+Yian Kut-Ku,1233.2,,,,,449.3,
+Zoh Shia,4623.6,,,,,,
