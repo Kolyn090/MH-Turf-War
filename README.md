@@ -34,3 +34,11 @@ check out size_combined_pred.csv file.
 - https://monsterhunter.fandom.com/wiki
 - https://monsterhunterrise.wiki.fextralife.com/
 - https://mhworld.kiranico.com/
+
+5. level: contains the threat level of monsters. (Unofficial)
+
+Score based on monster's combat danger and ecological impact if no information about 
+threat level was found. 
+
+- https://mhrise.mhrice.info/
+- https://monsterhunterwiki.org/wiki/Main_Page
