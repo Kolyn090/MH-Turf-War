@@ -6,9 +6,9 @@ Sources:
 
 2. monster: contains information about monsters.
 
-| name | type | elements | weakness | size |  
-|------|------|----------|----------|------|
-| cat  | cat  | binary   | num      | num  |
+| name | type | elements | weakness | size | level |  
+|------|------|----------|----------|------|-------|
+| cat  | cat  | binary   | num      | num  | num   |
 
 It's highly recommended to normalize weakness feature twice (once for row normalization
 of `[fire_weak, water_weak, thunder_weak, ice_weak, dragon_weak]`, and another

@@ -1,81 +1,81 @@
-monster,fire_weak,water_weak,thunder_weak,ice_weak,dragon_weak,type,fire_element,water_element,thunder_element,ice_element,dragon_element,golden_largest_min,golden_largest_max,silver_min,silver_max,golden_smallest_min,golden_smallest_max,default
-Acidic Glavenus (crystallized),0.27,0.03,0.1,0.04,0.05,Brute Wyvern,False,False,False,False,False,1898.0,2846.9,1898.0,1898.0,2135.2,1898.0,2609.7
-Acidic Glavenus (not crystallized),0.25,0.04,0.1,0.05,0.06,Brute Wyvern,False,False,False,False,False,1898.0,2846.9,1898.0,1898.0,2135.2,1898.0,2609.7
-Alatreon (on dragon),0.05,0.03,0.03,0.05,0.1,Elder Dragon,True,True,True,True,True,3753.4,4033.8,3461.5,3696.4,2615.7,2726.5,2969.0
-Alatreon (on fire),0.0,0.08,0.01,0.15,0.0,Elder Dragon,True,True,True,True,True,3753.4,4033.8,3461.5,3696.4,2615.7,2726.5,2969.0
-Alatreon (on ice),0.15,0.01,0.08,0.0,0.0,Elder Dragon,True,True,True,True,True,3753.4,4033.8,3461.5,3696.4,2615.7,2726.5,2969.0
-Ancient Leshen,0.13,0.0,0.04,0.01,0.04,Relict,False,False,False,False,False,801.2,861.1,738.9,789.1,558.4,582.0,633.8
-Anjanath,0.0,0.43,0.08,0.19,0.02,Brute Wyvern,True,False,False,False,False,2008.7,2151.2,1846.0,1971.2,1394.9,1448.9,1577.8
-Azure Rathalos,0.0,0.03,0.03,0.1,0.35,Flying Wyvern,True,False,False,False,False,2248.6,2052.1,1760.9,1880.4,1330.6,1140.6,1242.1
-Banbaro,0.05,0.0,0.01,0.0,0.15,Brute Wyvern,False,False,False,False,False,1972.0,2957.9,1972.0,1972.0,2164.4,1972.0,2765.6
-Barioth,0.22,0.01,0.1,0.0,0.05,Flying Wyvern,False,False,False,True,False,2580.9,2783.9,2388.9,2551.0,1805.2,1888.5,2056.5
-Barroth (covered in mud),0.0,0.93,0.0,0.04,0.01,Brute Wyvern,False,True,False,False,False,1744.3,1837.7,1576.9,1683.9,1191.6,1217.1,1325.4
-Barroth (not covered in mud),0.27,0.0,0.0,0.07,0.02,Brute Wyvern,False,True,False,False,False,1744.3,1837.7,1576.9,1683.9,1191.6,1217.1,1325.4
-Bazelgeuse,0.0,0.03,0.16,0.08,0.08,Flying Wyvern,True,False,False,False,False,2410.5,2550.6,2188.8,2337.3,1654.0,1697.0,1848.0
-Behemoth,0.06,0.19,0.11,0.13,0.24,Elder Dragon,True,False,True,False,False,4328.2,4651.6,3991.6,4262.4,3016.3,3144.0,3423.7
-Beotodus,0.24,0.01,0.04,0.0,0.0,Piscine Wyvern,False,False,False,True,False,2044.3,2537.9,2177.8,2325.6,1645.7,1945.8,2118.9
-Black Diablos,0.0,0.32,0.06,0.45,0.0,Flying Wyvern,False,False,False,False,False,2930.3,2954.8,2535.6,2707.6,1916.0,1865.7,2031.7
-Blackveil Vaal Hazak,0.34,0.04,0.09,0.18,0.31,Elder Dragon,False,False,False,False,False,1718.2,2577.3,1718.2,1718.2,1885.9,1718.2,2409.7
-Brachydios,0.0,0.09,0.02,0.19,0.01,Brute Wyvern,False,False,False,False,False,1932.7,2029.2,1741.3,1859.5,1315.8,1339.2,1458.3
-Brute Tigrex,0.0,0.16,0.1,0.04,0.08,Flying Wyvern,False,False,False,False,False,2169.4,2333.9,2002.8,2138.7,1513.4,1579.2,1719.7
-Coral Pukei-Pukei,0.01,0.0,0.03,0.17,0.01,Bird Wyvern,False,True,False,False,False,882.0,1322.9,882.0,882.0,992.2,882.0,1212.7
-Deviljho,0.11,0.11,0.41,0.07,0.41,Brute Wyvern,False,True,False,False,True,4097.8,3535.7,3034.1,3240.0,2292.7,1803.0,1963.4
-Diablos,0.0,0.35,0.06,0.5,0.35,Flying Wyvern,False,False,False,False,False,3030.0,2957.0,2537.5,2709.6,1917.4,1796.3,1956.1
-Dodogama,0.0,0.16,0.51,0.16,0.05,Fanged Wyvern,False,False,False,False,False,2000.0,1798.0,1542.9,1647.6,1165.9,977.8,1064.8
-Ebony Odogaron,0.18,0.41,0.18,0.18,0.02,Fanged Wyvern,False,False,False,False,True,1722.0,1849.9,1587.5,1695.2,1199.6,1249.9,1361.1
-Fatalis,0.1,0.02,0.02,0.05,0.2,Elder Dragon,True,False,False,False,False,5230.2,5621.0,4823.5,5150.7,3644.9,3799.2,4137.2
-Frostfang Barioth,0.22,0.01,0.1,0.0,0.05,Flying Wyvern,False,False,False,True,False,1720.6,2580.9,1720.6,1720.6,1888.5,1720.6,2413.1
-Fulgur Anjanath (charged),0.04,0.24,0.0,0.1,0.01,Brute Wyvern,False,False,True,False,False,2008.7,2175.5,1866.9,1993.5,1410.7,1481.8,1613.6
-Fulgur Anjanath (not charged),0.05,0.15,0.0,0.27,0.01,Brute Wyvern,False,False,True,False,False,2008.7,2175.5,1866.9,1993.5,1410.7,1481.8,1613.6
-Furious Rajang,0.0,0.02,0.0,0.15,0.0,Fanged Beast,False,False,True,False,False,1188.2,1281.6,1099.8,1174.4,831.1,869.4,946.7
-Glavenus,0.0,0.33,0.04,0.09,0.08,Brute Wyvern,True,False,False,False,False,3174.4,3359.0,2882.4,3078.0,2178.1,2234.8,2433.6
-Gold Rathian,0.0,0.02,0.09,0.02,0.36,Flying Wyvern,True,False,False,False,False,2303.8,2090.1,1793.5,1915.2,1355.3,1151.9,1254.4
-Great Girros,0.02,0.27,0.0,0.07,0.01,Fanged Wyvern,False,False,False,False,False,1316.4,1400.7,1202.0,1283.6,908.3,937.3,1020.7
-Great Jagras,0.41,0.0,0.13,0.05,0.02,Fanged Wyvern,False,False,False,False,False,1997.4,1278.5,1097.1,1171.6,829.0,277.4,302.1
-Jyuratodus (covered in mud),0.0,0.3,0.0,0.02,0.02,Piscine Wyvern,False,True,False,False,False,1885.9,1995.6,1712.4,1828.6,1294.0,1327.7,1445.8
-Jyuratodus (not covered in mud),0.04,0.0,0.18,0.02,0.02,Piscine Wyvern,False,True,False,False,False,1885.9,1995.6,1712.4,1828.6,1294.0,1327.7,1445.8
-Kirin,0.19,0.1,0.0,0.1,0.01,Elder Dragon,False,False,True,False,False,989.6,806.5,692.1,739.0,523.0,371.4,404.4
-Kulu-Ya-Ku,0.1,0.21,0.1,0.1,0.1,Bird Wyvern,False,False,False,False,False,1126.5,1198.7,1028.6,1098.4,777.3,802.1,873.4
-Kulve Taroth (covered in gold),0.0,0.05,0.05,0.07,0.03,Elder Dragon,True,False,False,False,False,5781.4,6213.3,5331.8,5693.6,4029.0,4199.6,4573.2
-Kulve Taroth (not covered in gold),0.02,0.09,0.09,0.12,0.15,Elder Dragon,True,False,False,False,False,5781.4,6213.3,5331.8,5693.6,4029.0,4199.6,4573.2
-Kushala Daora,0.09,0.02,0.28,0.0,0.09,Elder Dragon,False,False,False,True,True,2391.4,2218.3,1903.6,2032.7,1438.4,1261.6,1373.8
-Lavasioth (not hardened),0.01,0.44,0.05,0.05,0.02,Piscine Wyvern,True,False,False,False,False,3476.6,3038.2,2607.1,2784.0,1970.1,1581.6,1722.3
-Lavasioth (when hardened),0.25,0.09,0.0,0.0,0.02,Piscine Wyvern,True,False,False,False,False,3476.6,3038.2,2607.1,2784.0,1970.1,1581.6,1722.3
-Legiana,0.13,0.04,0.25,0.0,0.03,Flying Wyvern,False,False,False,True,False,2124.7,2248.2,1929.3,2060.2,1457.9,1495.8,1628.9
-Leshen,0.13,0.0,0.04,0.01,0.04,Relicts,False,False,False,False,False,694.9,746.8,640.9,684.4,484.3,504.8,549.7
-Lunastra,0.0,0.01,0.01,0.46,0.25,Elder Dragon,True,False,False,False,False,2575.2,2452.1,2104.2,2247.0,1590.1,1444.2,1572.7
-Namielle,0.38,0.0,0.0,0.11,0.26,Elder Dragon,False,True,True,False,False,2560.3,2724.3,2337.8,2496.4,1766.5,1822.9,1985.1
-Nargacuga,0.08,0.0,0.24,0.02,0.02,Flying Wyvern,False,False,False,False,False,2355.1,2450.8,2103.0,2245.7,1589.2,1602.2,1744.7
-Nergigante,0.11,0.08,0.5,0.06,0.19,Elder Dragon,False,False,False,False,False,2310.1,2444.4,2097.6,2239.9,1585.1,1626.3,1771.0
-Nightshade Paolumu,0.07,0.19,0.02,0.02,0.0,Flying Wyvern,False,False,False,False,False,1406.3,1500.0,1287.2,1374.5,972.7,1006.2,1095.7
-Odogaron,0.01,0.04,0.11,0.36,0.0,Fanged Wyvern,False,False,False,False,False,1735.9,1333.4,1144.3,1221.9,864.7,541.6,589.8
-Paolumu,0.27,0.0,0.12,0.05,0.05,Flying Wyvern,False,False,False,False,False,1429.2,1512.3,1297.8,1385.8,980.7,1006.2,1095.7
-Pink Rathian,0.0,0.02,0.09,0.02,0.36,Flying Wyvern,True,False,False,False,False,2303.8,2090.1,1793.5,1915.2,1355.3,1151.9,1254.4
-Pukei-Pukei,0.05,0.0,0.35,0.12,0.02,Bird Wyvern,False,False,False,False,False,1345.0,1440.4,1236.1,1319.9,934.0,970.2,1056.5
-Radobaan,0.08,0.08,0.08,0.1,0.19,Brute Wyvern,False,False,False,False,False,2182.2,2346.6,2013.7,2150.3,1521.6,1587.0,1728.2
-Raging Brachydios,0.0,0.15,0.03,0.23,0.01,Brute Wyvern,True,False,False,False,False,2885.9,3101.5,2661.5,2842.0,2011.2,2096.3,2282.8
-Rajang,0.0,0.02,0.0,0.18,0.0,Fanged Beast,False,False,True,False,False,1631.2,1416.3,1215.3,1297.8,918.4,729.6,794.5
-Rathalos,0.0,0.04,0.1,0.04,0.33,Flying Wyvern,True,False,False,False,False,2248.6,2052.1,1760.9,1880.4,1330.6,1140.6,1242.1
-Rathian,0.0,0.03,0.1,0.03,0.37,Flying Wyvern,True,False,False,False,False,2303.8,2090.1,1793.5,1915.2,1355.3,1151.9,1254.4
-Ruiner Nergigante,0.11,0.08,0.39,0.06,0.53,Elder Dragon,False,False,False,False,False,2310.2,2471.8,2121.1,2265.0,1602.8,1663.3,1811.3
-Safi'jiiva,1.0,1.0,1.0,1.0,1.0,Elder Dragon,True,False,False,False,False,6067.9,6521.2,5596.0,5975.7,4228.6,4407.7,4799.8
-Savage Deviljho,0.17,0.15,0.3,0.1,0.28,Brute Wyvern,False,False,False,False,True,4097.8,3535.7,3034.1,3240.0,2292.7,1803.0,1963.4
-Scarred Yian Garuga,0.0,0.27,0.0,0.02,0.07,Bird Wyvern,True,False,False,False,False,1744.5,1593.8,1367.7,1460.5,1033.5,887.3,966.2
-Seething Bazelgeuse,0.0,0.01,0.09,0.17,0.01,Flying Wyvern,True,False,False,False,False,2242.9,2410.5,2157.1,2303.5,1697.0,1768.9,1926.2
-Shara Ishvalda,0.04,0.16,0.0,0.36,0.03,Elder Dragon,False,False,False,False,False,3679.9,3954.9,3393.8,3624.0,2564.5,2673.1,2910.9
-Shrieking Legiana,0.19,0.02,0.07,0.0,0.01,Flying Wyvern,False,False,False,True,False,2253.0,2342.3,2010.0,2146.4,1518.9,1529.8,1665.9
-Silver Rathalos,0.0,0.03,0.03,0.1,0.35,Flying Wyvern,True,False,False,False,False,2248.6,2052.1,1760.9,1880.4,1330.6,1140.6,1242.1
-Stygian Zinogre (emitting light),0.08,0.14,0.22,0.08,0.0,Fanged Wyvern,False,False,False,False,True,1887.0,2047.6,1757.1,1876.3,1327.7,1397.2,1521.5
-Stygian Zinogre (not emitting light),0.04,0.08,0.13,0.04,0.0,Fanged Wyvern,False,False,False,False,True,1887.0,2047.6,1757.1,1876.3,1327.7,1397.2,1521.5
-Teostra,0.0,0.28,0.01,0.15,0.01,Elder Dragon,True,False,False,False,True,2610.0,2496.6,2142.4,2287.7,1618.9,1479.0,1610.6
-Tigrex,0.0,0.04,0.16,0.01,0.09,Flying Wyvern,False,False,False,False,False,2914.8,2593.2,2225.3,2376.3,1681.5,1388.2,1511.7
-Tobi-Kadachi,0.08,0.32,0.0,0.08,0.02,Fanged Wyvern,False,False,True,False,False,1573.6,1701.8,1460.4,1559.5,1103.5,1157.5,1260.5
-Tzitzi-Ya-Ku,0.12,0.12,0.21,0.21,0.12,Bird Wyvern,False,False,False,False,False,1117.5,1182.5,1014.8,1083.6,766.8,786.8,856.8
-Uragaan,0.0,0.55,0.01,0.19,0.44,Brute Wyvern,True,False,False,False,False,3344.5,2100.6,1802.5,1924.8,1362.1,410.1,446.6
-Vaal Hazak,0.4,0.02,0.08,0.17,0.12,Elder Dragon,False,False,False,False,False,2598.3,2760.3,2368.7,2529.4,1789.9,1844.0,2008.0
-Velkhana,0.46,0.02,0.07,0.0,0.17,Elder Dragon,False,False,False,True,False,3245.1,3472.1,2979.5,3181.7,2251.5,2336.4,2544.2
-Viper Tobi-Kadachi,0.01,0.0,0.17,0.08,0.01,Fanged Wyvern,False,False,False,False,False,1040.4,1560.6,1040.4,1040.4,1170.5,1040.4,1430.6
-Xeno'jiiva,0.44,0.53,0.53,0.53,0.44,Elder Dragon,True,False,False,False,True,5700.4,6126.2,5257.1,5613.7,3972.5,4140.8,4509.1
-Yian Garuga,0.0,0.27,0.0,0.02,0.07,Bird Wyvern,True,False,False,False,False,1744.5,1593.8,1367.7,1460.5,1033.5,887.3,966.2
-Zinogre,0.02,0.13,0.0,0.28,0.02,Fanged Wyvern,False,False,True,False,False,2144.5,2052.9,1761.7,1881.2,1331.2,1217.4,1325.7
-Zorah Magdaros,0.0,0.2,0.05,0.1,0.2,Elder Dragon,True,False,False,False,False,32571.4,35004.8,30038.5,32076.5,22698.7,23660.0,25764.6
+monster,fire_weak,water_weak,thunder_weak,ice_weak,dragon_weak,type,fire_element,water_element,thunder_element,ice_element,dragon_element,golden_largest_min,golden_largest_max,silver_min,silver_max,golden_smallest_min,golden_smallest_max,default,threat_level
+Acidic Glavenus (crystallized),0.27,0.03,0.1,0.04,0.05,Brute Wyvern,False,False,False,False,False,1898.0,2846.9,1898.0,1898.0,2135.2,1898.0,2609.7,7
+Acidic Glavenus (not crystallized),0.25,0.04,0.1,0.05,0.06,Brute Wyvern,False,False,False,False,False,1898.0,2846.9,1898.0,1898.0,2135.2,1898.0,2609.7,7
+Alatreon (on dragon),0.05,0.03,0.03,0.05,0.1,Elder Dragon,True,True,True,True,True,3753.4,4033.8,3461.5,3696.4,2615.7,2726.5,2969.0,10
+Alatreon (on fire),0.0,0.08,0.01,0.15,0.0,Elder Dragon,True,True,True,True,True,3753.4,4033.8,3461.5,3696.4,2615.7,2726.5,2969.0,10
+Alatreon (on ice),0.15,0.01,0.08,0.0,0.0,Elder Dragon,True,True,True,True,True,3753.4,4033.8,3461.5,3696.4,2615.7,2726.5,2969.0,10
+Ancient Leshen,0.13,0.0,0.04,0.01,0.04,Relict,False,False,False,False,False,801.2,861.1,738.9,789.1,558.4,582.0,633.8,9
+Anjanath,0.0,0.43,0.08,0.19,0.02,Brute Wyvern,True,False,False,False,False,2008.7,2151.2,1846.0,1971.2,1394.9,1448.9,1577.8,5
+Azure Rathalos,0.0,0.03,0.03,0.1,0.35,Flying Wyvern,True,False,False,False,False,2248.6,2052.1,1760.9,1880.4,1330.6,1140.6,1242.1,7
+Banbaro,0.05,0.0,0.01,0.0,0.15,Brute Wyvern,False,False,False,False,False,1972.0,2957.9,1972.0,1972.0,2164.4,1972.0,2765.6,4
+Barioth,0.22,0.01,0.1,0.0,0.05,Flying Wyvern,False,False,False,True,False,2580.9,2783.9,2388.9,2551.0,1805.2,1888.5,2056.5,6
+Barroth (covered in mud),0.0,0.93,0.0,0.04,0.01,Brute Wyvern,False,True,False,False,False,1744.3,1837.7,1576.9,1683.9,1191.6,1217.1,1325.4,4
+Barroth (not covered in mud),0.27,0.0,0.0,0.07,0.02,Brute Wyvern,False,True,False,False,False,1744.3,1837.7,1576.9,1683.9,1191.6,1217.1,1325.4,4
+Bazelgeuse,0.0,0.03,0.16,0.08,0.08,Flying Wyvern,True,False,False,False,False,2410.5,2550.6,2188.8,2337.3,1654.0,1697.0,1848.0,8
+Behemoth,0.06,0.19,0.11,0.13,0.24,Elder Dragon,True,False,True,False,False,4328.2,4651.6,3991.6,4262.4,3016.3,3144.0,3423.7,10
+Beotodus,0.24,0.01,0.04,0.0,0.0,Piscine Wyvern,False,False,False,True,False,2044.3,2537.9,2177.8,2325.6,1645.7,1945.8,2118.9,3
+Black Diablos,0.0,0.32,0.06,0.45,0.0,Flying Wyvern,False,False,False,False,False,2930.3,2954.8,2535.6,2707.6,1916.0,1865.7,2031.7,7
+Blackveil Vaal Hazak,0.34,0.04,0.09,0.18,0.31,Elder Dragon,False,False,False,False,False,1718.2,2577.3,1718.2,1718.2,1885.9,1718.2,2409.7,9
+Brachydios,0.0,0.09,0.02,0.19,0.01,Brute Wyvern,False,False,False,False,False,1932.7,2029.2,1741.3,1859.5,1315.8,1339.2,1458.3,7
+Brute Tigrex,0.0,0.16,0.1,0.04,0.08,Flying Wyvern,False,False,False,False,False,2169.4,2333.9,2002.8,2138.7,1513.4,1579.2,1719.7,8
+Coral Pukei-Pukei,0.01,0.0,0.03,0.17,0.01,Bird Wyvern,False,True,False,False,False,882.0,1322.9,882.0,882.0,992.2,882.0,1212.7,5
+Deviljho,0.11,0.11,0.41,0.07,0.41,Brute Wyvern,False,True,False,False,True,4097.8,3535.7,3034.1,3240.0,2292.7,1803.0,1963.4,8
+Diablos,0.0,0.35,0.06,0.5,0.35,Flying Wyvern,False,False,False,False,False,3030.0,2957.0,2537.5,2709.6,1917.4,1796.3,1956.1,7
+Dodogama,0.0,0.16,0.51,0.16,0.05,Fanged Wyvern,False,False,False,False,False,2000.0,1798.0,1542.9,1647.6,1165.9,977.8,1064.8,4
+Ebony Odogaron,0.18,0.41,0.18,0.18,0.02,Fanged Wyvern,False,False,False,False,True,1722.0,1849.9,1587.5,1695.2,1199.6,1249.9,1361.1,6
+Fatalis,0.1,0.02,0.02,0.05,0.2,Elder Dragon,True,False,False,False,False,5230.2,5621.0,4823.5,5150.7,3644.9,3799.2,4137.2,10
+Frostfang Barioth,0.22,0.01,0.1,0.0,0.05,Flying Wyvern,False,False,False,True,False,1720.6,2580.9,1720.6,1720.6,1888.5,1720.6,2413.1,7
+Fulgur Anjanath (charged),0.04,0.24,0.0,0.1,0.01,Brute Wyvern,False,False,True,False,False,2008.7,2175.5,1866.9,1993.5,1410.7,1481.8,1613.6,6
+Fulgur Anjanath (not charged),0.05,0.15,0.0,0.27,0.01,Brute Wyvern,False,False,True,False,False,2008.7,2175.5,1866.9,1993.5,1410.7,1481.8,1613.6,6
+Furious Rajang,0.0,0.02,0.0,0.15,0.0,Fanged Beast,False,False,True,False,False,1188.2,1281.6,1099.8,1174.4,831.1,869.4,946.7,9
+Glavenus,0.0,0.33,0.04,0.09,0.08,Brute Wyvern,True,False,False,False,False,3174.4,3359.0,2882.4,3078.0,2178.1,2234.8,2433.6,7
+Gold Rathian,0.0,0.02,0.09,0.02,0.36,Flying Wyvern,True,False,False,False,False,2303.8,2090.1,1793.5,1915.2,1355.3,1151.9,1254.4,8
+Great Girros,0.02,0.27,0.0,0.07,0.01,Fanged Wyvern,False,False,False,False,False,1316.4,1400.7,1202.0,1283.6,908.3,937.3,1020.7,4
+Great Jagras,0.41,0.0,0.13,0.05,0.02,Fanged Wyvern,False,False,False,False,False,1997.4,1278.5,1097.1,1171.6,829.0,277.4,302.1,3
+Jyuratodus (covered in mud),0.0,0.3,0.0,0.02,0.02,Piscine Wyvern,False,True,False,False,False,1885.9,1995.6,1712.4,1828.6,1294.0,1327.7,1445.8,4
+Jyuratodus (not covered in mud),0.04,0.0,0.18,0.02,0.02,Piscine Wyvern,False,True,False,False,False,1885.9,1995.6,1712.4,1828.6,1294.0,1327.7,1445.8,4
+Kirin,0.19,0.1,0.0,0.1,0.01,Elder Dragon,False,False,True,False,False,989.6,806.5,692.1,739.0,523.0,371.4,404.4,6
+Kulu-Ya-Ku,0.1,0.21,0.1,0.1,0.1,Bird Wyvern,False,False,False,False,False,1126.5,1198.7,1028.6,1098.4,777.3,802.1,873.4,2
+Kulve Taroth (covered in gold),0.0,0.05,0.05,0.07,0.03,Elder Dragon,True,False,False,False,False,5781.4,6213.3,5331.8,5693.6,4029.0,4199.6,4573.2,9
+Kulve Taroth (not covered in gold),0.02,0.09,0.09,0.12,0.15,Elder Dragon,True,False,False,False,False,5781.4,6213.3,5331.8,5693.6,4029.0,4199.6,4573.2,9
+Kushala Daora,0.09,0.02,0.28,0.0,0.09,Elder Dragon,False,False,False,True,True,2391.4,2218.3,1903.6,2032.7,1438.4,1261.6,1373.8,8
+Lavasioth (not hardened),0.01,0.44,0.05,0.05,0.02,Piscine Wyvern,True,False,False,False,False,3476.6,3038.2,2607.1,2784.0,1970.1,1581.6,1722.3,6
+Lavasioth (when hardened),0.25,0.09,0.0,0.0,0.02,Piscine Wyvern,True,False,False,False,False,3476.6,3038.2,2607.1,2784.0,1970.1,1581.6,1722.3,6
+Legiana,0.13,0.04,0.25,0.0,0.03,Flying Wyvern,False,False,False,True,False,2124.7,2248.2,1929.3,2060.2,1457.9,1495.8,1628.9,6
+Leshen,0.13,0.0,0.04,0.01,0.04,Relicts,False,False,False,False,False,694.9,746.8,640.9,684.4,484.3,504.8,549.7,8
+Lunastra,0.0,0.01,0.01,0.46,0.25,Elder Dragon,True,False,False,False,False,2575.2,2452.1,2104.2,2247.0,1590.1,1444.2,1572.7,9
+Namielle,0.38,0.0,0.0,0.11,0.26,Elder Dragon,False,True,True,False,False,2560.3,2724.3,2337.8,2496.4,1766.5,1822.9,1985.1,7
+Nargacuga,0.08,0.0,0.24,0.02,0.02,Flying Wyvern,False,False,False,False,False,2355.1,2450.8,2103.0,2245.7,1589.2,1602.2,1744.7,6
+Nergigante,0.11,0.08,0.5,0.06,0.19,Elder Dragon,False,False,False,False,False,2310.1,2444.4,2097.6,2239.9,1585.1,1626.3,1771.0,9
+Nightshade Paolumu,0.07,0.19,0.02,0.02,0.0,Flying Wyvern,False,False,False,False,False,1406.3,1500.0,1287.2,1374.5,972.7,1006.2,1095.7,7
+Odogaron,0.01,0.04,0.11,0.36,0.0,Fanged Wyvern,False,False,False,False,False,1735.9,1333.4,1144.3,1221.9,864.7,541.6,589.8,6
+Paolumu,0.27,0.0,0.12,0.05,0.05,Flying Wyvern,False,False,False,False,False,1429.2,1512.3,1297.8,1385.8,980.7,1006.2,1095.7,5
+Pink Rathian,0.0,0.02,0.09,0.02,0.36,Flying Wyvern,True,False,False,False,False,2303.8,2090.1,1793.5,1915.2,1355.3,1151.9,1254.4,6
+Pukei-Pukei,0.05,0.0,0.35,0.12,0.02,Bird Wyvern,False,False,False,False,False,1345.0,1440.4,1236.1,1319.9,934.0,970.2,1056.5,4
+Radobaan,0.08,0.08,0.08,0.1,0.19,Brute Wyvern,False,False,False,False,False,2182.2,2346.6,2013.7,2150.3,1521.6,1587.0,1728.2,3
+Raging Brachydios,0.0,0.15,0.03,0.23,0.01,Brute Wyvern,True,False,False,False,False,2885.9,3101.5,2661.5,2842.0,2011.2,2096.3,2282.8,9
+Rajang,0.0,0.02,0.0,0.18,0.0,Fanged Beast,False,False,True,False,False,1631.2,1416.3,1215.3,1297.8,918.4,729.6,794.5,8
+Rathalos,0.0,0.04,0.1,0.04,0.33,Flying Wyvern,True,False,False,False,False,2248.6,2052.1,1760.9,1880.4,1330.6,1140.6,1242.1,7
+Rathian,0.0,0.03,0.1,0.03,0.37,Flying Wyvern,True,False,False,False,False,2303.8,2090.1,1793.5,1915.2,1355.3,1151.9,1254.4,6
+Ruiner Nergigante,0.11,0.08,0.39,0.06,0.53,Elder Dragon,False,False,False,False,False,2310.2,2471.8,2121.1,2265.0,1602.8,1663.3,1811.3,9
+Safi'jiiva,1.0,1.0,1.0,1.0,1.0,Elder Dragon,True,False,False,False,False,6067.9,6521.2,5596.0,5975.7,4228.6,4407.7,4799.8,10
+Savage Deviljho,0.17,0.15,0.3,0.1,0.28,Brute Wyvern,False,False,False,False,True,4097.8,3535.7,3034.1,3240.0,2292.7,1803.0,1963.4,8
+Scarred Yian Garuga,0.0,0.27,0.0,0.02,0.07,Bird Wyvern,True,False,False,False,False,1744.5,1593.8,1367.7,1460.5,1033.5,887.3,966.2,7
+Seething Bazelgeuse,0.0,0.01,0.09,0.17,0.01,Flying Wyvern,True,False,False,False,False,2242.9,2410.5,2157.1,2303.5,1697.0,1768.9,1926.2,8
+Shara Ishvalda,0.04,0.16,0.0,0.36,0.03,Elder Dragon,False,False,False,False,False,3679.9,3954.9,3393.8,3624.0,2564.5,2673.1,2910.9,9
+Shrieking Legiana,0.19,0.02,0.07,0.0,0.01,Flying Wyvern,False,False,False,True,False,2253.0,2342.3,2010.0,2146.4,1518.9,1529.8,1665.9,8
+Silver Rathalos,0.0,0.03,0.03,0.1,0.35,Flying Wyvern,True,False,False,False,False,2248.6,2052.1,1760.9,1880.4,1330.6,1140.6,1242.1,8
+Stygian Zinogre (emitting light),0.08,0.14,0.22,0.08,0.0,Fanged Wyvern,False,False,False,False,True,1887.0,2047.6,1757.1,1876.3,1327.7,1397.2,1521.5,8
+Stygian Zinogre (not emitting light),0.04,0.08,0.13,0.04,0.0,Fanged Wyvern,False,False,False,False,True,1887.0,2047.6,1757.1,1876.3,1327.7,1397.2,1521.5,8
+Teostra,0.0,0.28,0.01,0.15,0.01,Elder Dragon,True,False,False,False,True,2610.0,2496.6,2142.4,2287.7,1618.9,1479.0,1610.6,8
+Tigrex,0.0,0.04,0.16,0.01,0.09,Flying Wyvern,False,False,False,False,False,2914.8,2593.2,2225.3,2376.3,1681.5,1388.2,1511.7,7
+Tobi-Kadachi,0.08,0.32,0.0,0.08,0.02,Fanged Wyvern,False,False,True,False,False,1573.6,1701.8,1460.4,1559.5,1103.5,1157.5,1260.5,5
+Tzitzi-Ya-Ku,0.12,0.12,0.21,0.21,0.12,Bird Wyvern,False,False,False,False,False,1117.5,1182.5,1014.8,1083.6,766.8,786.8,856.8,4
+Uragaan,0.0,0.55,0.01,0.19,0.44,Brute Wyvern,True,False,False,False,False,3344.5,2100.6,1802.5,1924.8,1362.1,410.1,446.6,6
+Vaal Hazak,0.4,0.02,0.08,0.17,0.12,Elder Dragon,False,False,False,False,False,2598.3,2760.3,2368.7,2529.4,1789.9,1844.0,2008.0,7
+Velkhana,0.46,0.02,0.07,0.0,0.17,Elder Dragon,False,False,False,True,False,3245.1,3472.1,2979.5,3181.7,2251.5,2336.4,2544.2,9
+Viper Tobi-Kadachi,0.01,0.0,0.17,0.08,0.01,Fanged Wyvern,False,False,False,False,False,1040.4,1560.6,1040.4,1040.4,1170.5,1040.4,1430.6,6
+Xeno'jiiva,0.44,0.53,0.53,0.53,0.44,Elder Dragon,True,False,False,False,True,5700.4,6126.2,5257.1,5613.7,3972.5,4140.8,4509.1,10
+Yian Garuga,0.0,0.27,0.0,0.02,0.07,Bird Wyvern,True,False,False,False,False,1744.5,1593.8,1367.7,1460.5,1033.5,887.3,966.2,6
+Zinogre,0.02,0.13,0.0,0.28,0.02,Fanged Wyvern,False,False,True,False,False,2144.5,2052.9,1761.7,1881.2,1331.2,1217.4,1325.7,7
+Zorah Magdaros,0.0,0.2,0.05,0.1,0.2,Elder Dragon,True,False,False,False,False,32571.4,35004.8,30038.5,32076.5,22698.7,23660.0,25764.6,8
